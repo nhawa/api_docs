@@ -1,0 +1,15 @@
+{
+ "book_sub_code":"089110121",
+ "seat_map":[
+   {
+    "wagon_code":"PREMIUM",
+    "wagon_no":"2",
+    "seat":"1A"
+   },
+   {
+    "wagon_code":"PREMIUM",
+    "wagon_no":"2",
+    "seat":"1C"
+   }
+ ]
+}

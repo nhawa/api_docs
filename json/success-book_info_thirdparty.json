@@ -1,0 +1,133 @@
+{
+    "diagnostic": {
+        "status": 200,
+        "currency": "USD",
+        "memoryusage": "2880.51 kb",
+        "elapstime": 0.66424,
+        "timestamp": 1522815033
+    },
+    "response": {
+        "code": "44335184",
+        "gds_book_code": "GLOBAOKG1LR",
+        "total_price": 355000,
+        "name": "Raymond",
+        "number": "01234567891",
+        "email": "nhawa.c.ec@gmail.com",
+        "gds_book_status": "Unpaid",
+        "time_limit": "2018-04-04 12:09:00",
+        "pax_info": [
+            {
+                "pax_name": "Ichen",
+                "birthdate": "",
+                "mobile": "",
+                "id_type": "KTP",
+                "id_number": "1234567891",
+                "seat": {
+                    "depart": "EKON-1/1B",
+                    "return": "PREMIUM-1/1B"
+                },
+                "pax_type": "Adult"
+            },
+            {
+                "pax_name": "Raymond",
+                "birthdate": "",
+                "mobile": "",
+                "id_type": "KTP",
+                "id_number": "1234567890",
+                "seat": {
+                    "depart": "EKON-1/1A",
+                    "return": "PREMIUM-1/1A"
+                },
+                "pax_type": "Adult"
+            },
+            {
+                "pax_name": "Vene",
+                "birthdate": "",
+                "mobile": "",
+                "id_type": "",
+                "id_number": "",
+                "seat": {
+                    "depart": "",
+                    "return": ""
+                },
+                "pax_type": "Infant"
+            }
+        ],
+        "route_info": [
+            {
+                "booking_sub_code": "443351840",
+                "seating_url": "https://www.traveloop.com/api/train/change-seat/443351840",
+                "transporter_type": "KAI",
+                "transporter_no": "11G",
+                "transporter_name": "ARGO GOPAR",
+                "class": "Ekonomi",
+                "subclass": "C",
+                "transporter_book_code": "RSPZSV",
+                "org": "GMR",
+                "des": "BD",
+                "dep_date": "2018-04-08 08:00:00",
+                "arv_date": "2018-04-08 11:40:00",
+                "book_status": "Unpaid",
+                "ccy": "IDR",
+                "basic_fare": "157000",
+                "discount": "-7500",
+                "additional_fee": "7500",
+                "total_price": "157000",
+                "ticket": [
+                    {
+                        "name": "RAYMOND",
+                        "seat": "EKON-1/1A",
+                        "id_number": "1234567890"
+                    },
+                    {
+                        "name": "ICHEN",
+                        "seat": "EKON-1/1B",
+                        "id_number": "1234567891"
+                    },
+                    {
+                        "name": "VENE",
+                        "seat": "",
+                        "id_number": ""
+                    }
+                ]
+            },
+            {
+                "booking_sub_code": "443351841",
+                "seating_url": "https://www.traveloop.com/api/train/change-seat/443351841",
+                "transporter_type": "KAI",
+                "transporter_no": "10501",
+                "transporter_name": "ARGO PARAHYANGAN PREMIUM",
+                "class": "Ekonomi",
+                "subclass": "C",
+                "transporter_book_code": "3WLM1F",
+                "org": "BD",
+                "des": "GMR",
+                "dep_date": "2018-04-08 04:15:00",
+                "arv_date": "2018-04-08 07:25:00",
+                "book_status": "Unpaid",
+                "ccy": "IDR",
+                "basic_fare": "198000",
+                "discount": "-7500",
+                "additional_fee": "7500",
+                "total_price": "198000",
+                "ticket": [
+                    {
+                        "name": "RAYMOND",
+                        "seat": "PREMIUM-1/1A",
+                        "id_number": "1234567890"
+                    },
+                    {
+                        "name": "ICHEN",
+                        "seat": "PREMIUM-1/1B",
+                        "id_number": "1234567891"
+                    },
+                    {
+                        "name": "VENE",
+                        "seat": "",
+                        "id_number": ""
+                    }
+                ]
+            }
+        ]
+    }
+}

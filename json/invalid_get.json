@@ -1,0 +1,384 @@
+{
+    "diagnostic": {
+        "error": "Sorry, something went wrong.",
+        "status": 404,
+        "error_msgs": "",
+        "exception": "Symfony\\Component\\HttpKernel\\Exception\\NotFoundHttpException",
+        "trace": [
+            {
+                "file": "/usr/share/nginx/html/traveloop/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+                "line": 546,
+                "function": "match",
+                "class": "Illuminate\\Routing\\RouteCollection",
+                "type": "->",
+                "args": [
+                    {
+                        "attributes": {},
+                        "request": {},
+                        "query": {},
+                        "server": {},
+                        "files": {},
+                        "cookies": {},
+                        "headers": {}
+                    }
+                ]
+            },
+            {
+                "file": "/usr/share/nginx/html/traveloop/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+                "line": 525,
+                "function": "findRoute",
+                "class": "Illuminate\\Routing\\Router",
+                "type": "->",
+                "args": [
+                    {
+                        "attributes": {},
+                        "request": {},
+                        "query": {},
+                        "server": {},
+                        "files": {},
+                        "cookies": {},
+                        "headers": {}
+                    }
+                ]
+            },
+            {
+                "file": "/usr/share/nginx/html/traveloop/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+                "line": 511,
+                "function": "dispatchToRoute",
+                "class": "Illuminate\\Routing\\Router",
+                "type": "->",
+                "args": [
+                    {
+                        "attributes": {},
+                        "request": {},
+                        "query": {},
+                        "server": {},
+                        "files": {},
+                        "cookies": {},
+                        "headers": {}
+                    }
+                ]
+            },
+            {
+                "file": "/usr/share/nginx/html/traveloop/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+                "line": 176,
+                "function": "dispatch",
+                "class": "Illuminate\\Routing\\Router",
+                "type": "->",
+                "args": [
+                    {
+                        "attributes": {},
+                        "request": {},
+                        "query": {},
+                        "server": {},
+                        "files": {},
+                        "cookies": {},
+                        "headers": {}
+                    }
+                ]
+            },
+            {
+                "file": "/usr/share/nginx/html/traveloop/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php",
+                "line": 30,
+                "function": "Illuminate\\Foundation\\Http\\{closure}",
+                "class": "Illuminate\\Foundation\\Http\\Kernel",
+                "type": "->",
+                "args": [
+                    {
+                        "attributes": {},
+                        "request": {},
+                        "query": {},
+                        "server": {},
+                        "files": {},
+                        "cookies": {},
+                        "headers": {}
+                    }
+                ]
+            },
+            {
+                "file": "/usr/share/nginx/html/traveloop/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php",
+                "line": 30,
+                "function": "Illuminate\\Routing\\{closure}",
+                "class": "Illuminate\\Routing\\Pipeline",
+                "type": "->",
+                "args": [
+                    {
+                        "attributes": {},
+                        "request": {},
+                        "query": {},
+                        "server": {},
+                        "files": {},
+                        "cookies": {},
+                        "headers": {}
+                    }
+                ]
+            },
+            {
+                "file": "/usr/share/nginx/html/traveloop/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+                "line": 148,
+                "function": "handle",
+                "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+                "type": "->",
+                "args": [
+                    {
+                        "attributes": {},
+                        "request": {},
+                        "query": {},
+                        "server": {},
+                        "files": {},
+                        "cookies": {},
+                        "headers": {}
+                    },
+                    {}
+                ]
+            },
+            {
+                "file": "/usr/share/nginx/html/traveloop/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php",
+                "line": 53,
+                "function": "Illuminate\\Pipeline\\{closure}",
+                "class": "Illuminate\\Pipeline\\Pipeline",
+                "type": "->",
+                "args": [
+                    {
+                        "attributes": {},
+                        "request": {},
+                        "query": {},
+                        "server": {},
+                        "files": {},
+                        "cookies": {},
+                        "headers": {}
+                    }
+                ]
+            },
+            {
+                "file": "/usr/share/nginx/html/traveloop/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php",
+                "line": 30,
+                "function": "Illuminate\\Routing\\{closure}",
+                "class": "Illuminate\\Routing\\Pipeline",
+                "type": "->",
+                "args": [
+                    {
+                        "attributes": {},
+                        "request": {},
+                        "query": {},
+                        "server": {},
+                        "files": {},
+                        "cookies": {},
+                        "headers": {}
+                    }
+                ]
+            },
+            {
+                "file": "/usr/share/nginx/html/traveloop/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+                "line": 148,
+                "function": "handle",
+                "class": "Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest",
+                "type": "->",
+                "args": [
+                    {
+                        "attributes": {},
+                        "request": {},
+                        "query": {},
+                        "server": {},
+                        "files": {},
+                        "cookies": {},
+                        "headers": {}
+                    },
+                    {}
+                ]
+            },
+            {
+                "file": "/usr/share/nginx/html/traveloop/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php",
+                "line": 53,
+                "function": "Illuminate\\Pipeline\\{closure}",
+                "class": "Illuminate\\Pipeline\\Pipeline",
+                "type": "->",
+                "args": [
+                    {
+                        "attributes": {},
+                        "request": {},
+                        "query": {},
+                        "server": {},
+                        "files": {},
+                        "cookies": {},
+                        "headers": {}
+                    }
+                ]
+            },
+            {
+                "file": "/usr/share/nginx/html/traveloop/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php",
+                "line": 27,
+                "function": "Illuminate\\Routing\\{closure}",
+                "class": "Illuminate\\Routing\\Pipeline",
+                "type": "->",
+                "args": [
+                    {
+                        "attributes": {},
+                        "request": {},
+                        "query": {},
+                        "server": {},
+                        "files": {},
+                        "cookies": {},
+                        "headers": {}
+                    }
+                ]
+            },
+            {
+                "file": "/usr/share/nginx/html/traveloop/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+                "line": 148,
+                "function": "handle",
+                "class": "Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize",
+                "type": "->",
+                "args": [
+                    {
+                        "attributes": {},
+                        "request": {},
+                        "query": {},
+                        "server": {},
+                        "files": {},
+                        "cookies": {},
+                        "headers": {}
+                    },
+                    {}
+                ]
+            },
+            {
+                "file": "/usr/share/nginx/html/traveloop/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php",
+                "line": 53,
+                "function": "Illuminate\\Pipeline\\{closure}",
+                "class": "Illuminate\\Pipeline\\Pipeline",
+                "type": "->",
+                "args": [
+                    {
+                        "attributes": {},
+                        "request": {},
+                        "query": {},
+                        "server": {},
+                        "files": {},
+                        "cookies": {},
+                        "headers": {}
+                    }
+                ]
+            },
+            {
+                "file": "/usr/share/nginx/html/traveloop/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php",
+                "line": 46,
+                "function": "Illuminate\\Routing\\{closure}",
+                "class": "Illuminate\\Routing\\Pipeline",
+                "type": "->",
+                "args": [
+                    {
+                        "attributes": {},
+                        "request": {},
+                        "query": {},
+                        "server": {},
+                        "files": {},
+                        "cookies": {},
+                        "headers": {}
+                    }
+                ]
+            },
+            {
+                "file": "/usr/share/nginx/html/traveloop/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+                "line": 148,
+                "function": "handle",
+                "class": "Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode",
+                "type": "->",
+                "args": [
+                    {
+                        "attributes": {},
+                        "request": {},
+                        "query": {},
+                        "server": {},
+                        "files": {},
+                        "cookies": {},
+                        "headers": {}
+                    },
+                    {}
+                ]
+            },
+            {
+                "file": "/usr/share/nginx/html/traveloop/vendor/laravel/framework/src/Illuminate/Routing/Pipeline.php",
+                "line": 53,
+                "function": "Illuminate\\Pipeline\\{closure}",
+                "class": "Illuminate\\Pipeline\\Pipeline",
+                "type": "->",
+                "args": [
+                    {
+                        "attributes": {},
+                        "request": {},
+                        "query": {},
+                        "server": {},
+                        "files": {},
+                        "cookies": {},
+                        "headers": {}
+                    }
+                ]
+            },
+            {
+                "file": "/usr/share/nginx/html/traveloop/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php",
+                "line": 102,
+                "function": "Illuminate\\Routing\\{closure}",
+                "class": "Illuminate\\Routing\\Pipeline",
+                "type": "->",
+                "args": [
+                    {
+                        "attributes": {},
+                        "request": {},
+                        "query": {},
+                        "server": {},
+                        "files": {},
+                        "cookies": {},
+                        "headers": {}
+                    }
+                ]
+            },
+            {
+                "file": "/usr/share/nginx/html/traveloop/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+                "line": 151,
+                "function": "then",
+                "class": "Illuminate\\Pipeline\\Pipeline",
+                "type": "->",
+                "args": [
+                    {}
+                ]
+            },
+            {
+                "file": "/usr/share/nginx/html/traveloop/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php",
+                "line": 116,
+                "function": "sendRequestThroughRouter",
+                "class": "Illuminate\\Foundation\\Http\\Kernel",
+                "type": "->",
+                "args": [
+                    {
+                        "attributes": {},
+                        "request": {},
+                        "query": {},
+                        "server": {},
+                        "files": {},
+                        "cookies": {},
+                        "headers": {}
+                    }
+                ]
+            },
+            {
+                "file": "/usr/share/nginx/html/traveloop/public/index.php",
+                "line": 53,
+                "function": "handle",
+                "class": "Illuminate\\Foundation\\Http\\Kernel",
+                "type": "->",
+                "args": [
+                    {
+                        "attributes": {},
+                        "request": {},
+                        "query": {},
+                        "server": {},
+                        "files": {},
+                        "cookies": {},
+                        "headers": {}
+                    }
+                ]
+            }
+        ]
+    }
+}

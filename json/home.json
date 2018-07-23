@@ -1,0 +1,438 @@
+{
+  "diagnostic": {
+    "status": 200,
+    "currency": "IDR",
+    "memoryusage": "2475.96 kb",
+    "elapstime": 2.32972,
+    "timestamp": 1516788538
+  },
+  "response": {
+    "currency": {
+      "value": {
+        "name": "Indonesian Rupiah",
+        "code": "IDR"
+      },
+      "list": [
+        {
+          "name": "Indonesian Rupiah",
+          "code": "IDR"
+        },
+        {
+          "name": "Singapore Dollar",
+          "code": "SGD"
+        },
+        {
+          "name": "United States Dollar",
+          "code": "USD"
+        },
+        {
+          "name": "Malaysian Ringgit",
+          "code": "MYR"
+        },
+        {
+          "name": "Euro",
+          "code": "EUR"
+        },
+        {
+          "name": "British Pound Sterling",
+          "code": "GBP"
+        },
+        {
+          "name": "Chinese Yuan",
+          "code": "CNY"
+        },
+        {
+          "name": "Philippine Peso",
+          "code": "PHP"
+        },
+        {
+          "name": "Thai Baht",
+          "code": "THB"
+        },
+        {
+          "name": "Vietnamese Dong",
+          "code": "VND"
+        },
+        {
+          "name": "Indian Rupee",
+          "code": "INR"
+        },
+        {
+          "name": "Australian Dollar",
+          "code": "AUD"
+        },
+        {
+          "name": "New Zealand Dollar",
+          "code": "NZD"
+        }
+      ]
+    },
+    "slider": [
+      {
+        "name": 1,
+        "code": "E-ID1-ID-BASIGHT",
+        "resource": "http://media.activitiesbank.com/42338/ENG/L/42338_1.jpg",
+        "url": "https://www.traveloop.com/activity/E-ID1-ID-BASIGHT"
+      },
+      {
+        "name": 2,
+        "code": "E-ID1-ID-BASIGHT",
+        "resource": "http://media.activitiesbank.com/42338/ENG/L/42338_1.jpg",
+        "url": "https://www.traveloop.com/activity/E-ID1-ID-BASIGHT"
+      },
+      {
+        "name": 3,
+        "code": "E-ID1-ID-BASIGHT",
+        "resource": "http://media.activitiesbank.com/42338/ENG/L/42338_1.jpg",
+        "url": "https://www.traveloop.com/activity/E-ID1-ID-BASIGHT"
+      },
+      {
+        "name": 4,
+        "code": "E-ID1-ID-BASIGHT",
+        "resource": "http://media.activitiesbank.com/42338/ENG/L/42338_1.jpg",
+        "url": "https://www.traveloop.com/activity/E-ID1-ID-BASIGHT"
+      }
+    ],
+    "favorite_activities": [
+      {
+        "code": "E-ID1-ID-BASIGHT",
+        "name": "Bali Sightseeing - Full Day Tour",
+        "destination": "Bali - Indonesia",
+        "city": null,
+        "country": "Indonesia",
+        "description": "There are many ways to explore the amazing island of Bali, but one of the most comfortable and interesting is surely on tour with a private car charter. On this full day excursion the experienced guide will show you the culture, beauty and traditions of this wonderful tropical island. <br /> <br /> Discover old jungle trials, sacred temples, rice fields, rain forest beautiful lakes and of course volcanoes. Furthermore you can discuss with the guide which itinerary you would like to have. There is no better way to travel.\\n<br /><br />\n<strong>Meeting/pick-up point:</strong> Hotel Lobby in Kuta, Legian, Seminyak, Nusadua, Tanjung Benoa, Jimbaran, Sanur. <br />\n<strong>Duration:</strong> 10 hours. <br />\n<strong>Start/opening time:</strong> Depending on the customer's choice. <br />\n<strong>Languages:</strong> English. <br />\n<strong>Others:</strong>  Not included: beverage during lunch.\\n",
+        "longitude": null,
+        "latitude": null,
+        "address": null,
+        "amount": 926595,
+        "resource": "http://media.activitiesbank.com/42966/ENG/L/42966_1.jpg",
+        "segment": "Families,Tours & Activities,Full day,Youth,Couples,Seniors",
+        "count": "70"
+      },
+      {
+        "code": "E-ID1-ID-BAGREAT",
+        "name": "Bali's Great Introduction",
+        "destination": "Bali - Indonesia",
+        "city": null,
+        "country": "Indonesia",
+        "description": "<strong>  Discover a place of charm, scenic beauty and intriguing history with this perfect introduction to Bali tour. Be captivated by the fascinating culture of Bali, witness the art of handicraft, admire the picturesque rice fields and traditional villages and take in the spectacular views of the lake and the volcano.  <br /><br /> \nHIGHLIGHTS: <br /><br />\n* Watch a visual dance representation of the traditional tale: The Mah?bh?rata <br />\n* See copious handicrafts being created first-hand <br />\n* Watch as lava flows from the active volcano: Mount Batur <br /><br /> </strong>  \nThe first stop is the stone carving village of Batubulan to see the colourful and exciting Barong and Kris Dance. This dance narrates the story of the eternal fight between good and evil. Mah?bh?rata is an epic narrative of the Kuruk?etra War and shows the fates of the princes of both Kaurava and P???ava. <br /><br />\nAfter the performance, we will travel northeast, encompassing a cross section of the entire island of Bali, from the palm fringed shores of the lowlands to the towering mountains. We visit the famous village of the wood carvers, to watch the workers enfolding the intricate designs from the many varieties of woods and a visit to the renowned village of silver and gold smiths. <br /><br />\nInvestigate the exciting Elephant Caves; also known as Goa Gajah; a complex built as a sanctuary in the 11th century. Take a moment to gaze in wonder and take photos of the impressive creatures. Have a look at the demons carved right into the rock at the cave entrance. The first carving was once thought to be an elephant, hence the nickname Elephant Cave. Explore the bathing place that was built to ward off evil spirits. <br /><br />\nNext up, we will appreciate nature´s best views at Kintamani; a stopping place to access and view the picturesque Gunung Batur region where you will enjoy spectacular views of Mount Batur with ribbons of black lava running down from the peak down into the valley below. The crater is holy and there is a sanctuary at the top which is dedicated to the fertility Goddess. Take a photo with the serene Lake Batur behind you shimmering against the backdrop of the mountains. <br /><br />\nThe return journey brings us to see beautiful rice terraces at Tegallalang. A final stop will be made in the village of Ubud renowned for its artists and dancers alike. <br /><br />\\n<br /><br /> \n<strong>Meeting/pick-up point:</strong> Pick-up for hotels in Kuta, Legian, Seminyak, Nusadua, Tanjung Benoa, Jimbaran and Sanur. <br /> \n<strong>Pick-up time:</strong> Between 8am and 8.30am. <br />\n<strong>Drop-off location:</strong> The same as the hotel pick-ups. <br />\n<strong>Drop-off time: </strong> Between 4pm and 4.30pm.<br />\n<strong>Languages:</strong> English and other languages on request. <br />\\n",
+        "longitude": null,
+        "latitude": null,
+        "address": null,
+        "amount": 675215,
+        "resource": "http://media.activitiesbank.com/11767/ENG/L/11767_2.jpg",
+        "segment": "Families,Full day,Tours & Activities,Seniors,Youth,Couples",
+        "count": "70"
+      },
+      {
+        "code": "E-ID1-ID-BAINTRO",
+        "name": "Full Day Intro To Balinese Cuisine",
+        "destination": "Bali - Indonesia",
+        "city": null,
+        "country": "Indonesia",
+        "description": "In the morning, meet with our reps and then transfer to Guliang Kawan Village located in the central of Bali. Prior, stop at a traditional local market where you will purchase the ingredients of today class such as spices, vegetables etc. Next, enjoy a Cooking Class which offers a fascinating introduction to the exotic ingredients and unique culture of Balinese food. Gain a valuable insight into the techniques of preparation and cooking which is used on a daily basis in homes all over the island. <br /><br /> After your lunch which is served on a hut facing to the rice field, you might join in a rural activity that allows you to experience how the farmers work in the rice fields. You will learn how to plant, transplants or harvest rice (depending on season) and in the same time you will have the opportunity to learn more about Subak, the Balinese traditional irrigation system that is an UNESCO recognized method of sustainable farming. Transfer back to your hotel.\\n<br /><br />\n<strong>Meeting/pick-up point:</strong> Hotel Lobby in Kuta, Legian, Seminyak, Nusadua, Tanjung Benoa, Jimbaran, Sanur. <br />\n<strong>Start/opening time:</strong> 8:30am. <br />\n<strong>End/closing time:</strong> 4:30pm.  <br />\n<strong>Languages:</strong> English. <br />\n<strong>Not included:</strong>  Personal expenses, tipping, beverage during the lunch. \n\\n",
+        "longitude": null,
+        "latitude": null,
+        "address": null,
+        "amount": 1384706,
+        "resource": "http://media.activitiesbank.com/42922/ENG/L/42922_1.jpg",
+        "segment": "Tours & Activities,Adult only,Full day",
+        "count": "70"
+      },
+      {
+        "code": "E-ID1-ID-BABIPKG",
+        "name": "Bali Bird Park Package",
+        "destination": "Bali - Indonesia",
+        "city": null,
+        "country": "Indonesia",
+        "description": "The park is divided into seven regions that recreate the natural habitats of birds, complete with indigenous plant life. Travel from the deep misty jungle of Sumatra to Far East Indonesia and Papua to discover the native birds from these remote regions. Venture to other tropical continents too including South America, the African Savannah and Australia. And walk side-by side with cassowaries, crested-cranes, storks and pelicans and many more birds as they wander freely through the park.\\n<br /><br />\n<strong>Meeting/pick-up point:</strong> Hotel Lobby in Kuta, Seminyak, Kerobokan, Sanur, Jimbaran, Nusa Dua, Tanjung Benoa.<br />\n<strong>Duration:</strong> 6 hours.<br />\n<strong>Pick-up time:</strong> At 9am.<br />\n<strong>End/closing time:</strong> At 3pm. \n\\n",
+        "longitude": null,
+        "latitude": null,
+        "address": null,
+        "amount": 880000,
+        "resource": "http://media.activitiesbank.com/42338/ENG/L/42338_1.jpg",
+        "segment": "Half-day morning,Tours & Activities,Seniors,Youth,Couples,Families",
+        "count": "69"
+      },
+      {
+        "code": "E-ID1-ID-BAHSIGH",
+        "name": "Bali Sightseeing - Half Day Tour",
+        "destination": "Bali - Indonesia",
+        "city": null,
+        "country": "Indonesia",
+        "description": "Enjoy your own created tour by visiting the interesting places in Bali in your limited time. The Half Day charters are the best alternative with more privacy for you to explore and experience the nice tourist destination in the Paradise Island and lead by our knowledgeable guide.\\n<br /><br />\n<strong>Meeting/pick-up point:</strong> Hotel Lobby in Kuta, Legian, Seminyak, Nusadua, Tanjung Benoa, Jimbaran, Sanur. <br />\n<strong>Duration:</strong> 6 hours. <br />\n<strong>Start/opening time:</strong> Depending on the customer’s choice. <br />\n<strong>Languages:</strong> English. <br />\n<strong>Others:</strong>  Not included: beverage during lunch.\\n",
+        "longitude": null,
+        "latitude": null,
+        "address": null,
+        "amount": 537733,
+        "resource": "http://media.activitiesbank.com/42968/ENG/L/42968_1.jpg",
+        "segment": "Couples,Tours & Activities,Flexible,Seniors,Families,Youth",
+        "count": "69"
+      },
+      {
+        "code": "E-ID1-ID-BAZOO",
+        "name": "Bali Zoo",
+        "destination": "Bali - Indonesia",
+        "city": null,
+        "country": "Indonesia",
+        "description": "Embark on an exhilarating “hands on” adventure with a trip to the Bali Zoo. The Zoo, set in 12 acres of lush tropical garden and flowers, is home to more than 350 creatures, a majority of which are indigenous to Indonesia, including rare and endangered species such as the Sumatran Elephant, Sumatran Tiger, Orangutan, Sun Bear and Binturong. Situated in the cultural heart of Bali, the zoo is only a ten minute drive from Ubud. <br /><br />Experience the beauty of Bali Zoo´s surroundings while learning about tropical animals, how they go about their day to day lives, what they eat, where they play etc. Witness the feeding of the lions, crocodiles and tigers. All of the inhabitants are fully cared for by the resident veterinarian. Enjoy cuddling up to a baby monkey while taking photos that will be cherished for many years. Create memories at this wonderful tropical zoo. Experience Bali’s most unique photo opportunity as you sit up close and personal with our tame tiger cubs, crocodiles, binturongs, pythons and more during our animal encounters session. Daily sessions are from 1pm and 4pm in the restaurant.  Get up close and personal for a petting and photo session with our assortment of exotic fauna. See what the scales on a fresh water crocodile and python or the fur of a binturong and tiger cub feel like then have your photo taken with these tame creatures. Our Bali Zoo staff will gladly take a photo for you or assist in taking one with your own camera. Feed, pet and cuddle the animals with this unique trip to the Bali Zoo. This up close and personal approach gives you the opportunity to experience nature´s fun and loving creatures without the limits of fences and cages. It truly is a highlight on any Bali holiday itinerary. Come and experience the fun and excitement of the Bali Zoo!\\n<br /><br />\n<strong>Meeting/pick-up point:</strong> Pick-up from hotels in  Kuta, Seminyak, Kerobokan, Sanur, Jimbaran, Nusa Dua, Tanjung Benoa. <br />\n<strong>Duration:</strong> Night: 4.5 hours. Afternoon: 5 hours. Morning: 5 hours. <br />\n<strong>Pick-up time:</strong> Night: at 4:30pm – 5pm. Afternoon: at 11:30pm-12pm. Morning: at 8:30am - 9am. <br />\n<strong>Start/opening time:</strong> Night: at 5:30pm. Afternoon: at 12:30pm. Morning: at 10:30am.  <br />\n<strong> Drop-off time time:</strong> Night: at 10pm. Afternoon: at 4:30pm - 5pm. Morning at 1:30pm - 2pm. <br />\n<strong>Languages:</strong> English. <br /> \n<strong>Others:</strong> If the clients have booked a ticket only, they will have to show their voucher at the ticket office.\\n",
+        "longitude": null,
+        "latitude": null,
+        "address": null,
+        "amount": 630435,
+        "resource": "http://media.activitiesbank.com/13053/ENG/L/13053_1.jpg",
+        "segment": "Youth,Half-day morning,Wildlife, zoo and aquarium,Couples,Seniors,Families",
+        "count": "67"
+      },
+      {
+        "code": "E-ID1-ID-BAREEF",
+        "name": "Bali reef dive",
+        "destination": "Bali - Indonesia",
+        "city": null,
+        "country": "Indonesia",
+        "description": "Bali is originally known as top surf destination, but now Bali is a top diving destination. There are great diving possibilities around the islands, from shallow and sheltered reefs. Most of the diving in Bali takes place on the North East and Northern coasts. Bali's advantage is its diversity of both site topography and marine life. Bali lies at the base of what is known as the coral triangle, regarded by marine biologists as the most diverse and rich diving environments in the world. In this region there are over 3000 species of fish and hundreds of unique species found nowhere else in the world. In comparison, the Great Barrier Reef has around 1500 species.\\n<br /><br />\n<strong>Meeting/pick-up point:</strong> Pick up from hotels in Kuta, Seminyak, Kerobokan, Sanur, Jimbaran, Nusa Dua, Tanjung Benoa between 7.30am and 8:15am.  <br />\n<strong>Duration:</strong> 9 hours.<br />\n<strong>Drop-off time:</strong> Between 4:30pm and 5:15pm. <br />\n<strong>Languages:</strong> English.<br />\n<strong>Others:</strong> Tour not suitable for children below 10 years of age. Please present your voucher to the local guide at the beginning of the trip.\\n",
+        "longitude": null,
+        "latitude": null,
+        "address": null,
+        "amount": 1756080,
+        "resource": "http://media.activitiesbank.com/32156/ENG/L/32156_5.jpg",
+        "segment": "Cruises and water sports,Full day,Adult only",
+        "count": "65"
+      },
+      {
+        "code": "E-ID1-ID-BAMOUNT",
+        "name": "Full Day Mount Batur Sunrise",
+        "destination": "Bali - Indonesia",
+        "city": null,
+        "country": "Indonesia",
+        "description": "For this early morning trek, depart very early before dawn breaks and follow the straightforward path to the center of the crater. On the crest, enjoy the awesome view of the sun rising from behind the mighty Mount Agung. Meanwhile, sample the unique breakfast of hard - boiled eggs and hot tea or coffee, cooked to perfection in the natural heat steaming from the belly of the volcano. After taking in the beauty of the summit, head down to the hot spring of Toya Bungkah village where your American breakfast will be served. Enjoy and relax by the pool of the natural hot spring with the view of the beautiful surroundings before returning to the hotel. <br /><br />\\n<br /><br />\n<strong>Meeting/pick-up point:</strong> Hotel Lobby in Kuta, Legian, Seminyak, Nusadua, Tanjung Benoa, Jimbaran, Sanur. <br />\n<strong>Duration:</strong> 8 hours. <br />\n<strong>Start/opening time:</strong> 1:30am.<br />\n<strong>End/closing time:</strong> 9:30am. <br />\n<strong>Languages:</strong> English. <br />\n<strong>No included:</strong> Personal expenses, tipping and beverage during the lunch.\n\\n",
+        "longitude": null,
+        "latitude": null,
+        "address": null,
+        "amount": 1478446,
+        "resource": "http://media.activitiesbank.com/42926/ENG/L/42926_1.jpg",
+        "segment": "Adult only,Full day,Tours & Activities",
+        "count": "64"
+      },
+      {
+        "code": "E-ID1-ID-BASAIL",
+        "name": "Bali Islands Cruise",
+        "destination": "Bali - Indonesia",
+        "city": null,
+        "country": "Indonesia",
+        "description": "<strong>Far away from the crowds, discover an ocean of wonder and the intimate secrets of a tropical island. Cruise to Lembongan Island on a luxury 87 foot yacht and discover Bali’s neighbouring islands and marine delights. <br /><br />HIGHLIGHTS: <br /><br />\n* Spend the day discovering Nusa Lembongan<br />\n* Snorkel, swim and tour the island<br />\n* Delicious BBQ lunch served at The Anchorage<br /><br /></strong>  \nStimulate your senses with a relaxing day time cruise from Bali. You day starts in complete comfort with pick up from your hotel before we set sail for around an hour and a half to Nusa Lembongan. Explore this idyllic tropical paradise where soft white sandy beaches melt into the crystal clear waters and soak up the sun-drenched beauty. <br /><br />\nDiscover colourful coral reefs with snorkelling and take part in other marine activities such as banana boating. Relax by the pool or take a tour of the island and enjoy a BBQ lunch at The Anchorage. Live music and entertainment will also accompany your day so that you sit back, relax and completely disconnect. \n\\n<br /><br />\n<strong>Meeting/pick-up point:</strong> Pick up fom hotels in Kuta, Legian, Seminyak, Nusadua, Tanjung Benoa, Jimbaran, Sanur, between 7.30am and 8.15am.<br />\n<strong>Duration:</strong> 8 hours.<br />\n<strong>Start/opening time:</strong> At 9am.<br />\n<strong>Others:</strong> Infant under 3 years old are free of charge. Please present your voucher to the local guide at the beginning of the trip.\\n",
+        "longitude": null,
+        "latitude": null,
+        "address": null,
+        "amount": 1315867,
+        "resource": "http://media.activitiesbank.com/32154/ENG/L/32154_1.jpg",
+        "segment": "Couples,Full day,Cruises and water sports,Families,Seniors,Youth",
+        "count": "63"
+      },
+      {
+        "code": "E-ID1-ID-BAFDDAY",
+        "name": "A full day to spend as you like - Only Transport",
+        "destination": "Bali - Indonesia",
+        "city": null,
+        "country": "Indonesia",
+        "description": "Your tour begins when you are picked up from your accommodation in the morning. Your driver will discuss your itinerary with you to see if you wish to make any changes before you set off for the day. <br /><br />\nThis tour will show you the impressive differences in nature all on this beautiful island, Bali. From the low land and relatively flat rice fields of Tabanan to the mountain region in Bedugul. A visit to the Bali butterfly Park is an opportunity to encounter rare and endemic species of butterflies. The Bali butterfly park in Tabanan is the island’s sole butterfly enclosure. Acres of charming grounds and intricately landscaped gardens make for a lovely home to these beautiful creatures. The vegetation changes as you continue to the alpine countryside. <br /><br />\nYou will make a stop at Pacung, amidst beautiful rice terraces before you visit the colorful local fruit market of Candi Kuning, where you can find a variety of colorful flowers and tropical vegetables. You will see the attractive mountain resort of Bedugul and Lake Beratan where the delightful Ulun Danu Temple is located. The temple is set on a small promontory on the shores of Lake Beratan, home to Danu the Goddess of Water who is believed to control the island's irrigation system. <br /><br />\nYou will continue to drive north along the winding road that will lead you to Gitgit Waterfalls. A short walk through the jungle reveals these beautiful falls. The return journey will take you through the Jatiluwih rice terraces which are on the world heritage list before heading back to your accommodation.\n\\n<br /><br />\n<strong>Meeting/pick-up point:</strong> Hotel Lobby in Kuta, Legian, Seminyak, Nusadua, Tanjung Benoa, Jimbaran and Sanur.<br />\n<strong>Duration:</strong> 10 hours.<br />\n<strong>Pick-up time:</strong> At 8:30am.<br />\n<strong>Drop-off time:</strong> At 6:30pm. \n\\n",
+        "longitude": null,
+        "latitude": null,
+        "address": null,
+        "amount": 644253,
+        "resource": "http://media.activitiesbank.com/42908/ENG/L/42908_1.jpg",
+        "segment": "Families,Full day,Tours & Activities,Couples,Youth,Seniors",
+        "count": "63"
+      }
+    ],
+    "favorite_destinations": [
+      {
+        "destination_code": "BAI",
+        "countryCode": "ID",
+        "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+        "destination": "Bali - INDONESIA  ",
+        "count": 200
+      },
+      {
+        "destination_code": "JAV",
+        "countryCode": "ID",
+        "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+        "destination": "Jakarta - INDONESIA  ",
+        "count": 199
+      },
+      {
+        "destination_code": "BKK",
+        "countryCode": "TH",
+        "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+        "destination": "Bangkok - THAILAND  ",
+        "count": 198
+      },
+      {
+        "destination_code": "HKT",
+        "countryCode": "TH",
+        "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+        "destination": "Phuket - THAILAND  ",
+        "count": 197
+      },
+      {
+        "destination_code": "SIN",
+        "countryCode": "SG",
+        "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+        "destination": "Singapore - SINGAPORE  ",
+        "count": 196
+      },
+      {
+        "destination_code": "KUL",
+        "countryCode": "MY",
+        "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+        "destination": "Kuala Lumpur - MALAYSIA  ",
+        "count": 195
+      },
+      {
+        "destination_code": "LGK",
+        "countryCode": "MY",
+        "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+        "destination": "Kedah / Langkawi - MALAYSIA  ",
+        "count": 194
+      },
+      {
+        "destination_code": "HKG",
+        "countryCode": "HK",
+        "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+        "destination": "Hong Kong - HONG KONG",
+        "count": 193
+      },
+      {
+        "destination_code": "YQY",
+        "countryCode": "CA",
+        "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+        "destination": "Sydney - CANADA  ",
+        "count": 192
+      },
+      {
+        "destination_code": "AKL",
+        "countryCode": "NZ",
+        "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+        "destination": "Auckland - NEW ZEALAND  ",
+        "count": 191
+      },
+      {
+        "destination_code": "OOL",
+        "countryCode": "AU",
+        "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+        "destination": "Gold Coast - QLD - AUSTRALIA  ",
+        "count": 190
+      },
+      {
+        "destination_code": "CN1",
+        "countryCode": "CN",
+        "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+        "destination": "Guangzhou - CHINA  ",
+        "count": 189
+      },
+      {
+        "destination_code": "PVG",
+        "countryCode": "CN",
+        "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+        "destination": "Shanghai - CHINA  ",
+        "count": 188
+      },
+      {
+        "destination_code": "ICN",
+        "countryCode": "KR",
+        "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+        "destination": "Seoul - SOUTH KOREA",
+        "count": 187
+      },
+      {
+        "destination_code": "NRT",
+        "countryCode": "JP",
+        "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+        "destination": "Tokyo - JAPAN  ",
+        "count": 186
+      }
+    ],
+    "last_search": [
+      {
+        "code": "E-ID1-ID-BAI2",
+        "name": "VW Kombi Spa Safari",
+        "destination": "Bali - Indonesia",
+        "city": "Bali",
+        "country": "Indonesia",
+        "description": "Purchase a pampering at two fabulous spas specializing in various massage, skin, and hair treatments Visit the home of a female Balinese Hindu priest for a spiritual healing and meditation ceremony Sip a sunset cocktail at one of the best beach bars in Southeast Asia Cruise around Bali in a retro-cool 80s VW van kitted out with a mini-bar, 10-speaker sound system, and wifi! <br /><br />\n Bali is practically synonymous with pampering, and that’s what we’re giving you on this cultural spa tour! You’ll cleanse your consciousness with a visit to a Balinese mangku, beautify your body with a luxury spa treatment, and sip cocktails at sunset at a fabulous beach bar. Talk about the ultimate mind-body treatment! Your Bali tour will take you southeast from Ku De Ta Seminyak to Legian, where you’ll arrive at one of the island’s best spas. You’ll get to pick from a list of treatments (at your own cost), anything from a Shiwa Balinese massage to a Balinese Boreh body mask, with 60 to 90 minutes specifically set aside for you to relax and enjoy! <br /><br />\nSpa treatments have long been practiced locally on the island, and today, Bali is a world-leader in such indulgences — so you’re in the right place for pampering! Then, with your mind mellow and your body blissed-out, we’ll stop for a 3-course lunch at the spa café, where you can fill up on delicious dishes like Sumatran-style beef or snapper cooked in white wine. After lunch, we’ll head to the home of a local mangku (priest) for a spiritual healing and meditation session. Ibu Mangku practices the ancient art of spiritual healing and meditation, and she’ll lead you through a private ceremony to help unlock your unconscious. What’s more, female priests are quite rare in Bali, so a meeting with her will be an extra special experience! This ceremony can be quite emotional for some people — it’s not uncommon for some participants to cry during the process. <br /><br />\n However, the mangku will care for all participants and explain to those affected how they can continue their healing after they’ve left her home and temple. We’ll then depart the mangku’s house and travel back into Seminyak for stops at two spas: a popular women’s spot for hair treatments and mani-pedis, and a men’s barber for cutthroat shaves, hair treatments, and athletic massages. Pick you treatment preference (at your own cost) and indulge! With everyone pampered, blessed, and relaxed, we’ll head to one of the best bars in Southeast Asia for a sunset cocktail (or two — trust us, you won’t be in a rush to leave!). Lastly, throughout it all, you’ll be travelling in retro-cool style, in a modified 1980s VW Kombi limo equipped with a sound system, 2,000 tunes to choose from, a mini bar, and wifi and charging ports and cables (so that you can upload all those jealousy-inducing Instagrams, of course!).\n\\n<br /><br />\n<strong>Duration:</strong> 7.5 hours <br />\n<strong>Start/opening time:</strong>10am. <br />\n<strong>Languages:</strong> English<br />\n<strong>Others:</strong> Adult above 15 years old only\n\\n",
+        "longitude": "115.154566",
+        "latitude": "-8.687245",
+        "address": "Front desk, Ku De Ta Jl Oberoi (laksmana) Seminyak",
+        "amount": 1248939,
+        "resource": "http://media.activitiesbank.com/35303/ENG/M/35303_1.jpg",
+        "segment": "Outdoor activities and adventure,Adult only,Full day",
+        "search_at": "2018-01-24 02:29:07",
+        "id": 1
+      },
+      {
+        "code": "E-ID1-ID-BABIPKG",
+        "name": "Bali Bird Park Package",
+        "destination": "Bali - Indonesia",
+        "city": null,
+        "country": "Indonesia",
+        "description": "The park is divided into seven regions that recreate the natural habitats of birds, complete with indigenous plant life. Travel from the deep misty jungle of Sumatra to Far East Indonesia and Papua to discover the native birds from these remote regions. Venture to other tropical continents too including South America, the African Savannah and Australia. And walk side-by side with cassowaries, crested-cranes, storks and pelicans and many more birds as they wander freely through the park.\\n<br /><br />\n<strong>Meeting/pick-up point:</strong> Hotel Lobby in Kuta, Seminyak, Kerobokan, Sanur, Jimbaran, Nusa Dua, Tanjung Benoa.<br />\n<strong>Duration:</strong> 6 hours.<br />\n<strong>Pick-up time:</strong> At 9am.<br />\n<strong>End/closing time:</strong> At 3pm. \n\\n",
+        "longitude": null,
+        "latitude": null,
+        "address": null,
+        "amount": 880000,
+        "resource": "http://media.activitiesbank.com/42338/ENG/M/42338_1.jpg",
+        "segment": "Half-day morning,Tours & Activities,Seniors,Youth,Couples,Families",
+        "search_at": "2018-01-24 02:29:07",
+        "id": 2
+      },
+      {
+        "code": "E-ID1-ID-BASAIL",
+        "name": "Bali Islands Cruise",
+        "destination": "Bali - Indonesia",
+        "city": null,
+        "country": "Indonesia",
+        "description": "<strong>Far away from the crowds, discover an ocean of wonder and the intimate secrets of a tropical island. Cruise to Lembongan Island on a luxury 87 foot yacht and discover Bali’s neighbouring islands and marine delights. <br /><br />HIGHLIGHTS: <br /><br />\n* Spend the day discovering Nusa Lembongan<br />\n* Snorkel, swim and tour the island<br />\n* Delicious BBQ lunch served at The Anchorage<br /><br /></strong>  \nStimulate your senses with a relaxing day time cruise from Bali. You day starts in complete comfort with pick up from your hotel before we set sail for around an hour and a half to Nusa Lembongan. Explore this idyllic tropical paradise where soft white sandy beaches melt into the crystal clear waters and soak up the sun-drenched beauty. <br /><br />\nDiscover colourful coral reefs with snorkelling and take part in other marine activities such as banana boating. Relax by the pool or take a tour of the island and enjoy a BBQ lunch at The Anchorage. Live music and entertainment will also accompany your day so that you sit back, relax and completely disconnect. \n\\n<br /><br />\n<strong>Meeting/pick-up point:</strong> Pick up fom hotels in Kuta, Legian, Seminyak, Nusadua, Tanjung Benoa, Jimbaran, Sanur, between 7.30am and 8.15am.<br />\n<strong>Duration:</strong> 8 hours.<br />\n<strong>Start/opening time:</strong> At 9am.<br />\n<strong>Others:</strong> Infant under 3 years old are free of charge. Please present your voucher to the local guide at the beginning of the trip.\\n",
+        "longitude": null,
+        "latitude": null,
+        "address": null,
+        "amount": 1315867,
+        "resource": "http://media.activitiesbank.com/32154/ENG/M/32154_1.jpg",
+        "segment": "Couples,Full day,Cruises and water sports,Families,Seniors,Youth",
+        "search_at": "2018-01-24 02:29:07",
+        "id": 3
+      },
+      {
+        "code": "E-ID1-ID-BASIGHT",
+        "name": "Bali Sightseeing - Full Day Tour",
+        "destination": "Bali - Indonesia",
+        "city": null,
+        "country": "Indonesia",
+        "description": "There are many ways to explore the amazing island of Bali, but one of the most comfortable and interesting is surely on tour with a private car charter. On this full day excursion the experienced guide will show you the culture, beauty and traditions of this wonderful tropical island. <br /> <br /> Discover old jungle trials, sacred temples, rice fields, rain forest beautiful lakes and of course volcanoes. Furthermore you can discuss with the guide which itinerary you would like to have. There is no better way to travel.\\n<br /><br />\n<strong>Meeting/pick-up point:</strong> Hotel Lobby in Kuta, Legian, Seminyak, Nusadua, Tanjung Benoa, Jimbaran, Sanur. <br />\n<strong>Duration:</strong> 10 hours. <br />\n<strong>Start/opening time:</strong> Depending on the customer's choice. <br />\n<strong>Languages:</strong> English. <br />\n<strong>Others:</strong>  Not included: beverage during lunch.\\n",
+        "longitude": null,
+        "latitude": null,
+        "address": null,
+        "amount": 926595,
+        "resource": "http://media.activitiesbank.com/42966/ENG/M/42966_1.jpg",
+        "segment": "Families,Tours & Activities,Full day,Youth,Couples,Seniors",
+        "search_at": "2018-01-24 02:29:07",
+        "id": 4
+      },
+      {
+        "code": "E-ID1-ID-BAHSIGH",
+        "name": "Bali Sightseeing - Half Day Tour",
+        "destination": "Bali - Indonesia",
+        "city": null,
+        "country": "Indonesia",
+        "description": "Enjoy your own created tour by visiting the interesting places in Bali in your limited time. The Half Day charters are the best alternative with more privacy for you to explore and experience the nice tourist destination in the Paradise Island and lead by our knowledgeable guide.\\n<br /><br />\n<strong>Meeting/pick-up point:</strong> Hotel Lobby in Kuta, Legian, Seminyak, Nusadua, Tanjung Benoa, Jimbaran, Sanur. <br />\n<strong>Duration:</strong> 6 hours. <br />\n<strong>Start/opening time:</strong> Depending on the customer’s choice. <br />\n<strong>Languages:</strong> English. <br />\n<strong>Others:</strong>  Not included: beverage during lunch.\\n",
+        "longitude": null,
+        "latitude": null,
+        "address": null,
+        "amount": 537733,
+        "resource": "http://media.activitiesbank.com/42968/ENG/M/42968_1.jpg",
+        "segment": "Couples,Tours & Activities,Flexible,Seniors,Families,Youth",
+        "search_at": "2018-01-24 02:29:07",
+        "id": 5
+      }
+    ]
+  }
+}

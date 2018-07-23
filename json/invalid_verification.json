@@ -1,0 +1,7 @@
+{
+    "diagnostic": {
+        "error": "Sorry, something went wrong.",
+        "status": 400,
+        "error_msgs": "Unauthenticated."
+    }
+}

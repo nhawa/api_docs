@@ -1,0 +1,29 @@
+{
+    "diagnostic": {
+        "status": 200,
+        "currency": "IDR",
+        "memoryusage": "2696.34 kb",
+        "elapstime": 0.0189,
+        "timestamp": 1522815839
+    },
+    "response": [
+        {
+            "name": "Labor Pay deposit",
+            "amount": 1904000,
+            "limit": null,
+            "type": {
+                "id": 1,
+                "name": "Deposit"
+            }
+        },
+        {
+            "name": "Labor Pay kredit",
+            "amount": 710000,
+            "limit": 2000000,
+            "type": {
+                "id": 2,
+                "name": "Kredit"
+            }
+        }
+    ]
+}

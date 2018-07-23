@@ -1,0 +1,1431 @@
+{
+    "diagnostic": {
+        "status": 200,
+        "currency": "USD",
+        "memoryusage": "3124.64 kb",
+        "elapstime": 0.24702,
+        "timestamp": 1522813111
+    },
+    "response": {
+        "station": [
+            {
+                "name": "AEKLOBA",
+                "city": "Medan",
+                "code": "AKB"
+            },
+            {
+                "name": "ANGKE",
+                "city": "Jakarta",
+                "code": "AK"
+            },
+            {
+                "name": "BABAKAN",
+                "city": "Cirebon",
+                "code": "BBK"
+            },
+            {
+                "name": "BANDARKALIPAH",
+                "city": "Medan",
+                "code": "BAP"
+            },
+            {
+                "name": "BANDARTINGGI",
+                "city": "Medan",
+                "code": "BDT"
+            },
+            {
+                "name": "BANDUNG",
+                "city": "Bandung",
+                "code": "BD"
+            },
+            {
+                "name": "BANGIL",
+                "city": "Pasuruan",
+                "code": "BG"
+            },
+            {
+                "name": "BANJAR",
+                "city": "Banjar",
+                "code": "BJR"
+            },
+            {
+                "name": "BANYUWANGIBARU",
+                "city": "Banyuwangi",
+                "code": "BW"
+            },
+            {
+                "name": "BARON",
+                "city": "Nganjuk",
+                "code": "BRN"
+            },
+            {
+                "name": "BATANG",
+                "city": "Batang",
+                "code": "BTG"
+            },
+            {
+                "name": "BATANGKUIS",
+                "city": "Medan",
+                "code": "BTK"
+            },
+            {
+                "name": "BATURAJA",
+                "city": "Baturaja",
+                "code": "BTA"
+            },
+            {
+                "name": "BEKASI",
+                "city": "Bekasi",
+                "code": "BKS"
+            },
+            {
+                "name": "BENOWO",
+                "city": "Surabaya",
+                "code": "BNW"
+            },
+            {
+                "name": "BINJAI",
+                "city": "Binjai",
+                "code": "BIJ"
+            },
+            {
+                "name": "BLITAR",
+                "city": "Blitar",
+                "code": "BL"
+            },
+            {
+                "name": "BOJONEGORO",
+                "city": "Bojonegoro",
+                "code": "BJ"
+            },
+            {
+                "name": "BREBES",
+                "city": "Brebes",
+                "code": "BB"
+            },
+            {
+                "name": "BULAKAMBA",
+                "city": "Brebes",
+                "code": "BKA"
+            },
+            {
+                "name": "BUMIAYU",
+                "city": "Brebes",
+                "code": "BMA"
+            },
+            {
+                "name": "BUTUH",
+                "city": "Purworejo",
+                "code": "BTH"
+            },
+            {
+                "name": "CARUBAN",
+                "city": "Madiun",
+                "code": "CRB"
+            },
+            {
+                "name": "CEPU",
+                "city": "Blora",
+                "code": "CU"
+            },
+            {
+                "name": "CERME",
+                "city": "Gresik",
+                "code": "CME"
+            },
+            {
+                "name": "CIAMIS",
+                "city": "Ciamis",
+                "code": "CI"
+            },
+            {
+                "name": "CIBATU",
+                "city": "Garut",
+                "code": "CB"
+            },
+            {
+                "name": "CICALENGKA",
+                "city": "Bandung",
+                "code": "CCL"
+            },
+            {
+                "name": "CIKAMPEK",
+                "city": "Karawang",
+                "code": "CKP"
+            },
+            {
+                "name": "CILACAP",
+                "city": "Cilacap",
+                "code": "CP"
+            },
+            {
+                "name": "CILAME",
+                "city": "Bandung",
+                "code": "CLE"
+            },
+            {
+                "name": "CILEDUG",
+                "city": "Tangerang",
+                "code": "CLD"
+            },
+            {
+                "name": "CILEJIT",
+                "city": "Tangerang",
+                "code": "CJT"
+            },
+            {
+                "name": "CIMAHI",
+                "city": "Cimahi",
+                "code": "CMI"
+            },
+            {
+                "name": "CIPARI",
+                "city": "Cilacap",
+                "code": "CPI"
+            },
+            {
+                "name": "CIPEUNDEUY",
+                "city": "Garut",
+                "code": "CPD"
+            },
+            {
+                "name": "CIREBON",
+                "city": "Cirebon",
+                "code": "CN"
+            },
+            {
+                "name": "CIREBONPRUJAKAN",
+                "city": "Cirebon",
+                "code": "CNP"
+            },
+            {
+                "name": "CIROYOM",
+                "city": "Bandung",
+                "code": "CIR"
+            },
+            {
+                "name": "CISAUK",
+                "city": "Tangerang",
+                "code": "CSK"
+            },
+            {
+                "name": "CITERAS",
+                "city": "Lebak",
+                "code": "CTR"
+            },
+            {
+                "name": "COMAL",
+                "city": "Pemalang",
+                "code": "CO"
+            },
+            {
+                "name": "DARU",
+                "city": "Tangerang",
+                "code": "DAR"
+            },
+            {
+                "name": "DOPLANG",
+                "city": "Blora",
+                "code": "DPL"
+            },
+            {
+                "name": "DUDUK",
+                "city": "Gresik",
+                "code": "DD"
+            },
+            {
+                "name": "DURI",
+                "city": "Jakarta",
+                "code": "DU"
+            },
+            {
+                "name": "GAMBIR",
+                "city": "Jakarta",
+                "code": "GMR"
+            },
+            {
+                "name": "GANDRUNGMANGUN",
+                "city": "Cilacap",
+                "code": "GDM"
+            },
+            {
+                "name": "GOMBONG",
+                "city": "Kebumen",
+                "code": "GB"
+            },
+            {
+                "name": "GUMILIR",
+                "city": "Cilacap",
+                "code": "GM"
+            },
+            {
+                "name": "GUNDIH",
+                "city": "Grobongan",
+                "code": "GD"
+            },
+            {
+                "name": "HAURGEULIS",
+                "city": "Indramayu",
+                "code": "HGL"
+            },
+            {
+                "name": "HENGELO",
+                "city": "Medan",
+                "code": "HL"
+            },
+            {
+                "name": "JAKARTA KOTA",
+                "city": "Jakarta",
+                "code": "JAKK"
+            },
+            {
+                "name": "JATIBARANG",
+                "city": "Indramayu",
+                "code": "JTB"
+            },
+            {
+                "name": "JATINEGARA",
+                "city": "Jakarta",
+                "code": "JNG"
+            },
+            {
+                "name": "JATIROTO",
+                "city": "Jember",
+                "code": "JTR"
+            },
+            {
+                "name": "JEMBER",
+                "city": "Jember",
+                "code": "JR"
+            },
+            {
+                "name": "JOMBANG",
+                "city": "Jombang",
+                "code": "JG"
+            },
+            {
+                "name": "KALIBARU",
+                "city": "Banyuwangi",
+                "code": "KBR"
+            },
+            {
+                "name": "KALISAT",
+                "city": "Jember",
+                "code": "KLT"
+            },
+            {
+                "name": "KALISETAIL",
+                "city": "Jember",
+                "code": "KSL"
+            },
+            {
+                "name": "KANDANGAN",
+                "city": "Surabaya",
+                "code": "KDA"
+            },
+            {
+                "name": "KARANGASEM",
+                "city": "Banyuwangi",
+                "code": "KNE"
+            },
+            {
+                "name": "KEBAYORAN",
+                "city": "Jakarta",
+                "code": "KBY"
+            },
+            {
+                "name": "KEBUMEN",
+                "city": "Kebumen",
+                "code": "KM"
+            },
+            {
+                "name": "KEDIRI",
+                "city": "Kediri",
+                "code": "KD"
+            },
+            {
+                "name": "KEDUNGJATI",
+                "city": "Grobongan",
+                "code": "KEJ"
+            },
+            {
+                "name": "KEMRANJEN",
+                "city": "Banyumas",
+                "code": "KJ"
+            },
+            {
+                "name": "KEPANJEN",
+                "city": "Malang",
+                "code": "KPN"
+            },
+            {
+                "name": "KERTAPATI",
+                "city": "Palembang",
+                "code": "KPT"
+            },
+            {
+                "name": "KERTOSONO",
+                "city": "Madiun",
+                "code": "KTS"
+            },
+            {
+                "name": "KESAMBEN",
+                "city": "Surabaya",
+                "code": "KSB"
+            },
+            {
+                "name": "KIARACONDONG",
+                "city": "Bandung",
+                "code": "KAC"
+            },
+            {
+                "name": "KISARAN",
+                "city": "Kisaran",
+                "code": "KIS"
+            },
+            {
+                "name": "KLATEN",
+                "city": "Yogyakarta",
+                "code": "KT"
+            },
+            {
+                "name": "KOTABUMI",
+                "city": "Lampung",
+                "code": "KB"
+            },
+            {
+                "name": "KOTOK",
+                "city": "Jember",
+                "code": "KTK"
+            },
+            {
+                "name": "KROYA",
+                "city": "Purwokerto",
+                "code": "KYA"
+            },
+            {
+                "name": "KTANGGUNGAN",
+                "city": "Brebes",
+                "code": "KGG"
+            },
+            {
+                "name": "KUTOARJO",
+                "city": "Purwokerto",
+                "code": "KTA"
+            },
+            {
+                "name": "KUTOWINANGUN",
+                "city": "Purwokerto",
+                "code": "KWN"
+            },
+            {
+                "name": "LAHAT",
+                "city": "Palembang",
+                "code": "LT"
+            },
+            {
+                "name": "LAMONGAN",
+                "city": "Surabaya",
+                "code": "LMG"
+            },
+            {
+                "name": "LELES",
+                "city": "Purwokerto",
+                "code": "LL"
+            },
+            {
+                "name": "LEMPUYANGAN",
+                "city": "Yogyakarta",
+                "code": "LPN"
+            },
+            {
+                "name": "LIMAPULUH",
+                "city": "Medan",
+                "code": "LMP"
+            },
+            {
+                "name": "LOSARI",
+                "city": "Cirebon",
+                "code": "LOS"
+            },
+            {
+                "name": "LUBUK LINGGAU",
+                "city": "Palembang",
+                "code": "LLG"
+            },
+            {
+                "name": "LUBUKPAKAM",
+                "city": "Deli Serdang",
+                "code": "LBP"
+            },
+            {
+                "name": "MADIUN",
+                "city": "Madiun",
+                "code": "MN"
+            },
+            {
+                "name": "MALANG",
+                "city": "Surabaya",
+                "code": "ML"
+            },
+            {
+                "name": "MALANG KOTA LAMA",
+                "city": "Surabaya",
+                "code": "MLK"
+            },
+            {
+                "name": "MAMBANGMUDA",
+                "city": "Medan",
+                "code": "MBM"
+            },
+            {
+                "name": "MANGGA BESAR",
+                "city": "Jakarta",
+                "code": "MGB"
+            },
+            {
+                "name": "MANGGARAI",
+                "city": "Jakarta",
+                "code": "MRI"
+            },
+            {
+                "name": "MAOS",
+                "city": "Purwokerto",
+                "code": "MA"
+            },
+            {
+                "name": "MEDAN",
+                "city": "Medan",
+                "code": "MDN"
+            },
+            {
+                "name": "MERAK",
+                "city": "Jakarta",
+                "code": "MER"
+            },
+            {
+                "name": "MERBAU",
+                "city": "Labuhan Batu",
+                "code": "MBU"
+            },
+            {
+                "name": "MOJOKERTO",
+                "city": "Surabaya",
+                "code": "MR"
+            },
+            {
+                "name": "MUARA ENIM",
+                "city": "Palembang",
+                "code": "ME"
+            },
+            {
+                "name": "NAGREG",
+                "city": "Bandung",
+                "code": "NG"
+            },
+            {
+                "name": "NGANJUK",
+                "city": "Madiun",
+                "code": "NJ"
+            },
+            {
+                "name": "NGROMBRO",
+                "city": "Semarang",
+                "code": "NBO"
+            },
+            {
+                "name": "NGUNUT",
+                "city": "Madiun",
+                "code": "NT"
+            },
+            {
+                "name": "PADALARANG",
+                "city": "Bandung",
+                "code": "PDL"
+            },
+            {
+                "name": "PADANGHALABAN",
+                "city": "Medan",
+                "code": "PHA"
+            },
+            {
+                "name": "PALMERAH",
+                "city": "Jakarta",
+                "code": "PLM"
+            },
+            {
+                "name": "PAMINGKE",
+                "city": "Medan",
+                "code": "PME"
+            },
+            {
+                "name": "PARON",
+                "city": "Madiun",
+                "code": "PA"
+            },
+            {
+                "name": "PARUNG PANJANG",
+                "city": "Bogor",
+                "code": "PRP"
+            },
+            {
+                "name": "PASAR SENEN",
+                "city": "Jakarta",
+                "code": "PSE"
+            },
+            {
+                "name": "PASURUAN",
+                "city": "Pasuruan",
+                "code": "PS"
+            },
+            {
+                "name": "PEGADENBARU",
+                "city": "Cirebon",
+                "code": "PGB"
+            },
+            {
+                "name": "PEKALONGAN",
+                "city": "Pekalongan",
+                "code": "PK"
+            },
+            {
+                "name": "PEMALANG",
+                "city": "Pemalang",
+                "code": "PML"
+            },
+            {
+                "name": "PERBAUNGAN",
+                "city": "Medan",
+                "code": "PBA"
+            },
+            {
+                "name": "PERLANAAN",
+                "city": "Medan",
+                "code": "PRA"
+            },
+            {
+                "name": "PLERED",
+                "city": "Bandung",
+                "code": "PLD"
+            },
+            {
+                "name": "PONDOK RANJI",
+                "city": "Tangerang",
+                "code": "PDJ"
+            },
+            {
+                "name": "PRABUMULIH",
+                "city": "Palembang",
+                "code": "PBM"
+            },
+            {
+                "name": "PREMBUN",
+                "city": "Kebumen",
+                "code": "PRB"
+            },
+            {
+                "name": "PROBOLINGGO",
+                "city": "Jember",
+                "code": "PB"
+            },
+            {
+                "name": "PRUPUK",
+                "city": "Purwokerto",
+                "code": "PPK"
+            },
+            {
+                "name": "PULURAJA",
+                "city": "Medan",
+                "code": "PUR"
+            },
+            {
+                "name": "PURWAKARTA",
+                "city": "Purwakarta",
+                "code": "PWK"
+            },
+            {
+                "name": "PURWOKERTO",
+                "city": "Purwokerto",
+                "code": "PWT"
+            },
+            {
+                "name": "PURWOSARI",
+                "city": "Solo",
+                "code": "PWS"
+            },
+            {
+                "name": "RAMBIPUJI",
+                "city": "Jember",
+                "code": "RBP"
+            },
+            {
+                "name": "RAMPAH",
+                "city": "Serdang Bedagai",
+                "code": "RPH"
+            },
+            {
+                "name": "RANCAEKEK",
+                "city": "Bandung",
+                "code": "RCK"
+            },
+            {
+                "name": "RANGKASBITUNG",
+                "city": "Lebak",
+                "code": "RK"
+            },
+            {
+                "name": "RANTAU PRAPAT",
+                "city": "Labuhan Batu",
+                "code": "RAP"
+            },
+            {
+                "name": "RENDEH",
+                "city": "Bandung",
+                "code": "RH"
+            },
+            {
+                "name": "ROGOJAMPI",
+                "city": "Banyuwangi",
+                "code": "RGP"
+            },
+            {
+                "name": "SADANG",
+                "city": "Bandung",
+                "code": "SAD"
+            },
+            {
+                "name": "SEIBEJANGKAR",
+                "city": "Medan",
+                "code": "SBJ"
+            },
+            {
+                "name": "SEMARANGPONCOL",
+                "city": "Semarang",
+                "code": "SMC"
+            },
+            {
+                "name": "SEMARANGTAWANG",
+                "city": "Semarang",
+                "code": "SMT"
+            },
+            {
+                "name": "SEPANJANG",
+                "city": "Surabaya",
+                "code": "SPJ"
+            },
+            {
+                "name": "SERPONG",
+                "city": "Tangerang",
+                "code": "SRP"
+            },
+            {
+                "name": "SIDAREJA",
+                "city": "Purwokerto",
+                "code": "SDR"
+            },
+            {
+                "name": "SIDOARJO",
+                "city": "Surabaya",
+                "code": "SDA"
+            },
+            {
+                "name": "SOLOBALAPAN",
+                "city": "Yogyakarta",
+                "code": "SLO"
+            },
+            {
+                "name": "SOLOJEBRES",
+                "city": "Yogyakarta",
+                "code": "SK"
+            },
+            {
+                "name": "SONGGOM",
+                "city": "Cirebon",
+                "code": "SGG"
+            },
+            {
+                "name": "SRAGEN",
+                "city": "Yogyakarta",
+                "code": "SR"
+            },
+            {
+                "name": "SRAGI",
+                "city": "Semarang",
+                "code": "SRI"
+            },
+            {
+                "name": "SROWOT",
+                "city": "Yogyakarta",
+                "code": "SWT"
+            },
+            {
+                "name": "SRUWENG",
+                "city": "Purwokerto",
+                "code": "SRW"
+            },
+            {
+                "name": "SUDIMARA",
+                "city": "Tangerang",
+                "code": "SDM"
+            },
+            {
+                "name": "SUKATANI",
+                "city": "Bandung",
+                "code": "SUT"
+            },
+            {
+                "name": "SUMBERPUCUNG",
+                "city": "Malang",
+                "code": "SBP"
+            },
+            {
+                "name": "SUMPIUH",
+                "city": "Purwokerto",
+                "code": "SPH"
+            },
+            {
+                "name": "SURABAYA GUBENG",
+                "city": "Surabaya",
+                "code": "SGU"
+            },
+            {
+                "name": "SURABAYA KOTA",
+                "city": "Surabaya",
+                "code": "SB"
+            },
+            {
+                "name": "SURABAYA PASAR TURI",
+                "city": "Surabaya",
+                "code": "SBI"
+            },
+            {
+                "name": "SURODADI",
+                "city": "Semarang",
+                "code": "SD"
+            },
+            {
+                "name": "TAMBAK",
+                "city": "Purwokerto",
+                "code": "TBK"
+            },
+            {
+                "name": "TANAH ABANG",
+                "city": "Jakarta",
+                "code": "THB"
+            },
+            {
+                "name": "TANDES",
+                "city": "Surabaya",
+                "code": "TES"
+            },
+            {
+                "name": "TANGGUL",
+                "city": "Jember",
+                "code": "TGL"
+            },
+            {
+                "name": "TANGGULANGIN",
+                "city": "Surabaya",
+                "code": "TGA"
+            },
+            {
+                "name": "TANJUNG",
+                "city": "Cirebon",
+                "code": "TGN"
+            },
+            {
+                "name": "TANJUNGBALAI",
+                "city": "Tanjung Balai",
+                "code": "TNB"
+            },
+            {
+                "name": "TANJUNGKARANG",
+                "city": "Lampung",
+                "code": "TNK"
+            },
+            {
+                "name": "TASIKMALAYA",
+                "city": "Bandung",
+                "code": "TSM"
+            },
+            {
+                "name": "TEBING TINGGI",
+                "city": "Palembang",
+                "code": "TI"
+            },
+            {
+                "name": "TEBING TINGGI",
+                "city": "Palembang",
+                "code": "TBI"
+            },
+            {
+                "name": "TEGAL",
+                "city": "Semarang",
+                "code": "TG"
+            },
+            {
+                "name": "TELAWA",
+                "city": "Semarang",
+                "code": "TW"
+            },
+            {
+                "name": "TEMUGURUH",
+                "city": "Jember",
+                "code": "TGR"
+            },
+            {
+                "name": "TENJO",
+                "city": "Bogor",
+                "code": "TEJ"
+            },
+            {
+                "name": "TIGARAKSA",
+                "city": "Tangerang",
+                "code": "TGS"
+            },
+            {
+                "name": "TULUNGAGUNG",
+                "city": "Madiun",
+                "code": "TA"
+            },
+            {
+                "name": "UNIVERSITAS INDONESIA",
+                "city": "Jakarta",
+                "code": "UI"
+            },
+            {
+                "name": "WALIKUKUN",
+                "city": "Madiun",
+                "code": "WK"
+            },
+            {
+                "name": "WARUDUWUR",
+                "city": "Cirebon",
+                "code": "WDW"
+            },
+            {
+                "name": "WATES",
+                "city": "Yogyakarta",
+                "code": "WT"
+            },
+            {
+                "name": "WELERI",
+                "city": "Semarang",
+                "code": "WLR"
+            },
+            {
+                "name": "WLINGI",
+                "city": "Surabaya",
+                "code": "WG"
+            },
+            {
+                "name": "WONOKROMO",
+                "city": "Surabaya",
+                "code": "WO"
+            },
+            {
+                "name": "WONOSARI",
+                "city": "Purwokerto",
+                "code": "WNS"
+            },
+            {
+                "name": "YOGYAKARTA",
+                "city": "Yogyakarta",
+                "code": "YK"
+            }
+        ],
+        "destination": [
+            {
+                "city_name": "Bandung",
+                "city_code": "BDO",
+                "code": [
+                    "BD",
+                    "NG",
+                    "RH",
+                    "CCL",
+                    "CIR",
+                    "CLE",
+                    "KAC",
+                    "PDL",
+                    "PLD",
+                    "RCK",
+                    "SAD",
+                    "SUT",
+                    "TSM"
+                ]
+            },
+            {
+                "city_name": "Banjar",
+                "city_code": "BJR",
+                "code": [
+                    "BJR"
+                ]
+            },
+            {
+                "city_name": "Banyumas",
+                "city_code": "BYM",
+                "code": [
+                    "KJ"
+                ]
+            },
+            {
+                "city_name": "Banyuwangi",
+                "city_code": "NBA",
+                "code": [
+                    "BW",
+                    "KBR",
+                    "KNE",
+                    "RGP"
+                ]
+            },
+            {
+                "city_name": "Batang",
+                "city_code": "BTN",
+                "code": [
+                    "BTG"
+                ]
+            },
+            {
+                "city_name": "Baturaja",
+                "city_code": "BRJ",
+                "code": [
+                    "BTA"
+                ]
+            },
+            {
+                "city_name": "Bekasi",
+                "city_code": "BEK",
+                "code": [
+                    "BKS"
+                ]
+            },
+            {
+                "city_name": "Binjai",
+                "city_code": "ID3",
+                "code": [
+                    "BIJ"
+                ]
+            },
+            {
+                "city_name": "Blitar",
+                "city_code": "BL1",
+                "code": [
+                    "BL"
+                ]
+            },
+            {
+                "city_name": "Blora",
+                "city_code": "LRB",
+                "code": [
+                    "CU",
+                    "DPL"
+                ]
+            },
+            {
+                "city_name": "Bogor",
+                "city_code": "ID5",
+                "code": [
+                    "PRP",
+                    "TEJ"
+                ]
+            },
+            {
+                "city_name": "Bojonegoro",
+                "city_code": "BJG",
+                "code": [
+                    "BJ"
+                ]
+            },
+            {
+                "city_name": "Brebes",
+                "city_code": "BBS",
+                "code": [
+                    "BB",
+                    "BKA",
+                    "BMA",
+                    "KGG"
+                ]
+            },
+            {
+                "city_name": "Ciamis",
+                "city_code": "CIM",
+                "code": [
+                    "CI"
+                ]
+            },
+            {
+                "city_name": "Cilacap",
+                "city_code": "ICL",
+                "code": [
+                    "CP",
+                    "GM",
+                    "CPI",
+                    "GDM"
+                ]
+            },
+            {
+                "city_name": "Cimahi",
+                "city_code": "CI4",
+                "code": [
+                    "CMI"
+                ]
+            },
+            {
+                "city_name": "Cirebon",
+                "city_code": "ID8",
+                "code": [
+                    "CN",
+                    "BBK",
+                    "CNP",
+                    "LOS",
+                    "PGB",
+                    "SGG",
+                    "TGN",
+                    "WDW"
+                ]
+            },
+            {
+                "city_name": "Deli Serdang",
+                "city_code": "DSR",
+                "code": [
+                    "LBP"
+                ]
+            },
+            {
+                "city_name": "Garut",
+                "city_code": "GT1",
+                "code": [
+                    "CB",
+                    "CPD"
+                ]
+            },
+            {
+                "city_name": "Gresik",
+                "city_code": "GRK",
+                "code": [
+                    "DD",
+                    "CME"
+                ]
+            },
+            {
+                "city_name": "Grobogan",
+                "city_code": "GRG",
+                "code": [
+                    "KEJ",
+                    "GD"
+                ]
+            },
+            {
+                "city_name": "Indramayu",
+                "city_code": "IDM",
+                "code": [
+                    "HGL",
+                    "JTB"
+                ]
+            },
+            {
+                "city_name": "Jakarta",
+                "city_code": "JAV",
+                "code": [
+                    "AK",
+                    "DU",
+                    "UI",
+                    "GMR",
+                    "JNG",
+                    "KBY",
+                    "MER",
+                    "MGB",
+                    "MRI",
+                    "PLM",
+                    "PSE",
+                    "THB",
+                    "JAKK"
+                ]
+            },
+            {
+                "city_name": "Jember",
+                "city_code": "JMR",
+                "code": [
+                    "JR",
+                    "PB",
+                    "JTR",
+                    "KLT",
+                    "KSL",
+                    "KTK",
+                    "RBP",
+                    "TGL",
+                    "TGR"
+                ]
+            },
+            {
+                "city_name": "Jombang",
+                "city_code": "JBG",
+                "code": [
+                    "JG"
+                ]
+            },
+            {
+                "city_name": "Karawang",
+                "city_code": "AWK",
+                "code": [
+                    "CKP"
+                ]
+            },
+            {
+                "city_name": "Kebumen",
+                "city_code": "KEB",
+                "code": [
+                    "GB",
+                    "KM",
+                    "PRB"
+                ]
+            },
+            {
+                "city_name": "Kediri",
+                "city_code": "KED",
+                "code": [
+                    "KD"
+                ]
+            },
+            {
+                "city_name": "Kisaran",
+                "city_code": "KSR",
+                "code": [
+                    "KIS"
+                ]
+            },
+            {
+                "city_name": "Labuhan Batu",
+                "city_code": "LBU",
+                "code": [
+                    "MBU",
+                    "RAP"
+                ]
+            },
+            {
+                "city_name": "Lampung",
+                "city_code": "LPG",
+                "code": [
+                    "KB",
+                    "TNK"
+                ]
+            },
+            {
+                "city_name": "Lebak",
+                "city_code": "LBK",
+                "code": [
+                    "RK",
+                    "CTR"
+                ]
+            },
+            {
+                "city_name": "Madiun",
+                "city_code": "IAM",
+                "code": [
+                    "MN",
+                    "NJ",
+                    "NT",
+                    "PA",
+                    "TA",
+                    "WK",
+                    "CRB",
+                    "KTS"
+                ]
+            },
+            {
+                "city_name": "Malang",
+                "city_code": "MLG",
+                "code": [
+                    "KPN",
+                    "SBP"
+                ]
+            },
+            {
+                "city_name": "Medan",
+                "city_code": "MES",
+                "code": [
+                    "HL",
+                    "AKB",
+                    "BAP",
+                    "BDT",
+                    "BTK",
+                    "LMP",
+                    "MBM",
+                    "MDN",
+                    "PBA",
+                    "PHA",
+                    "PME",
+                    "PRA",
+                    "PUR",
+                    "SBJ"
+                ]
+            },
+            {
+                "city_name": "Nganjuk",
+                "city_code": "NGJ",
+                "code": [
+                    "BRN"
+                ]
+            },
+            {
+                "city_name": "Palembang",
+                "city_code": "ID6",
+                "code": [
+                    "LT",
+                    "ME",
+                    "TI",
+                    "KPT",
+                    "LLG",
+                    "PBM",
+                    "TBI"
+                ]
+            },
+            {
+                "city_name": "Pasuruan",
+                "city_code": "PSR",
+                "code": [
+                    "BG"
+                ]
+            },
+            {
+                "city_name": "Pasuruan",
+                "city_code": "APS",
+                "code": [
+                    "PS"
+                ]
+            },
+            {
+                "city_name": "Pekalongan",
+                "city_code": "PKL",
+                "code": [
+                    "PK"
+                ]
+            },
+            {
+                "city_name": "Pemalang",
+                "city_code": "PME",
+                "code": [
+                    "CO",
+                    "PML"
+                ]
+            },
+            {
+                "city_name": "Purwakarta",
+                "city_code": "PWK",
+                "code": [
+                    "PWK"
+                ]
+            },
+            {
+                "city_name": "Purwokerto",
+                "city_code": "PUR",
+                "code": [
+                    "LL",
+                    "MA",
+                    "KTA",
+                    "KWN",
+                    "KYA",
+                    "PPK",
+                    "PWT",
+                    "SDR",
+                    "SPH",
+                    "SRW",
+                    "TBK",
+                    "WNS"
+                ]
+            },
+            {
+                "city_name": "Purworejo",
+                "city_code": "PWR",
+                "code": [
+                    "BTH"
+                ]
+            },
+            {
+                "city_name": "Semarang",
+                "city_code": "SRG",
+                "code": [
+                    "SD",
+                    "TG",
+                    "TW",
+                    "NBO",
+                    "SMC",
+                    "SMT",
+                    "SRI",
+                    "WLR"
+                ]
+            },
+            {
+                "city_name": "Serdang Bedagai",
+                "city_code": "SBI",
+                "code": [
+                    "RPH"
+                ]
+            },
+            {
+                "city_name": "Solo",
+                "city_code": "SOC",
+                "code": [
+                    "PWS"
+                ]
+            },
+            {
+                "city_name": "Surabaya",
+                "city_code": "SUB",
+                "code": [
+                    "ML",
+                    "MR",
+                    "SB",
+                    "WG",
+                    "WO",
+                    "BNW",
+                    "KDA",
+                    "KSB",
+                    "LMG",
+                    "MLK",
+                    "SBI",
+                    "SDA",
+                    "SGU",
+                    "SPJ",
+                    "TES",
+                    "TGA"
+                ]
+            },
+            {
+                "city_name": "Tangerang",
+                "city_code": "TG2",
+                "code": [
+                    "CJT",
+                    "CLD",
+                    "CSK",
+                    "DAR",
+                    "PDJ",
+                    "SDM",
+                    "SRP",
+                    "TGS"
+                ]
+            },
+            {
+                "city_name": "Tanjung Balai",
+                "city_code": "TBL",
+                "code": [
+                    "TNB"
+                ]
+            },
+            {
+                "city_name": "Yogyakarta",
+                "city_code": "JOG",
+                "code": [
+                    "KT",
+                    "SK",
+                    "SR",
+                    "WT",
+                    "YK",
+                    "LPN",
+                    "SLO",
+                    "SWT"
+                ]
+            }
+        ]
+    }
+}

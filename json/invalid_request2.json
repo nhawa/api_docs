@@ -1,0 +1,7 @@
+{
+    "diagnostic": {
+        "error": "invalid_request",
+        "status": 400,
+        "error_msgs": "The q field is required."
+    }
+}

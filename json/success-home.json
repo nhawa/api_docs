@@ -1,0 +1,517 @@
+{
+    "diagnostic": {
+        "status": 200,
+        "currency": "USD",
+        "memoryusage": "2825.77 kb",
+        "elapstime": 4.5481,
+        "timestamp": 1521689633
+    },
+    "response": {
+        "coordinate": {
+            "latitude": -6.2611,
+            "longitude": 107.1528
+        },
+        "currency": {
+            "value": {
+                "name": "United States Dollar",
+                "code": "USD"
+            },
+            "list": [
+                {
+                    "name": "Indonesian Rupiah",
+                    "code": "IDR"
+                },
+                {
+                    "name": "Singapore Dollar",
+                    "code": "SGD"
+                },
+                {
+                    "name": "United States Dollar",
+                    "code": "USD"
+                },
+                {
+                    "name": "Malaysian Ringgit",
+                    "code": "MYR"
+                },
+                {
+                    "name": "Euro",
+                    "code": "EUR"
+                },
+                {
+                    "name": "British Pound Sterling",
+                    "code": "GBP"
+                },
+                {
+                    "name": "Chinese Yuan",
+                    "code": "CNY"
+                },
+                {
+                    "name": "Philippine Peso",
+                    "code": "PHP"
+                },
+                {
+                    "name": "Thai Baht",
+                    "code": "THB"
+                },
+                {
+                    "name": "Vietnamese Dong",
+                    "code": "VND"
+                },
+                {
+                    "name": "Indian Rupee",
+                    "code": "INR"
+                },
+                {
+                    "name": "Australian Dollar",
+                    "code": "AUD"
+                },
+                {
+                    "name": "New Zealand Dollar",
+                    "code": "NZD"
+                }
+            ]
+        },
+        "slider": [
+            {
+                "name": "Banner actiivity",
+                "code": "",
+                "resource": "https://admin.traveloop.com/images/banner/banner155ab21540cd579210318.jpg",
+                "url": ""
+            },
+            {
+                "name": "Banner cruise",
+                "code": "",
+                "resource": "https://admin.traveloop.com/images/banner/banner155ab215b292ac9210318.jpg",
+                "url": ""
+            },
+            {
+                "name": "banner train",
+                "code": "",
+                "resource": "https://admin.traveloop.com/images/banner/banner155ab215d891b38210318.jpg",
+                "url": ""
+            },
+            {
+                "name": "Banner pelni",
+                "code": "",
+                "resource": "https://admin.traveloop.com/images/banner/banner155ab2160e5c93e210318.jpg",
+                "url": ""
+            }
+        ],
+        "favorite_activities": [
+            {
+                "code": "E-ID1-ID-BAGREAT",
+                "name": "Bali's Great Introduction",
+                "destination": "Bali - Indonesia",
+                "city": null,
+                "country": "Indonesia",
+                "country_code": "ID",
+                "description": "<strong>  Discover a place of charm, scenic beauty and intriguing history with this perfect introduction to Bali tour. Be captivated by the fascinating culture of Bali, witness the art of handicraft, admire the picturesque rice fields and traditional villages and take in the spectacular views of the lake and the volcano.  <br /><br /> \nHIGHLIGHTS: <br /><br />\n* Watch a visual dance representation of the traditional tale: The Mah?bh?rata <br />\n* See copious handicrafts being created first-hand <br />\n* Watch as lava flows from the active volcano: Mount Batur <br /><br /> </strong>  \nThe first stop is the stone carving village of Batubulan to see the colourful and exciting Barong and Kris Dance. This dance narrates the story of the eternal fight between good and evil. Mah?bh?rata is an epic narrative of the Kuruk?etra War and shows the fates of the princes of both Kaurava and P???ava. <br /><br />\nAfter the performance, we will travel northeast, encompassing a cross section of the entire island of Bali, from the palm fringed shores of the lowlands to the towering mountains. We visit the famous village of the wood carvers, to watch the workers enfolding the intricate designs from the many varieties of woods and a visit to the renowned village of silver and gold smiths. <br /><br />\nInvestigate the exciting Elephant Caves; also known as Goa Gajah; a complex built as a sanctuary in the 11th century. Take a moment to gaze in wonder and take photos of the impressive creatures. Have a look at the demons carved right into the rock at the cave entrance. The first carving was once thought to be an elephant, hence the nickname Elephant Cave. Explore the bathing place that was built to ward off evil spirits. <br /><br />\nNext up, we will appreciate nature´s best views at Kintamani; a stopping place to access and view the picturesque Gunung Batur region where you will enjoy spectacular views of Mount Batur with ribbons of black lava running down from the peak down into the valley below. The crater is holy and there is a sanctuary at the top which is dedicated to the fertility Goddess. Take a photo with the serene Lake Batur behind you shimmering against the backdrop of the mountains. <br /><br />\nThe return journey brings us to see beautiful rice terraces at Tegallalang. A final stop will be made in the village of Ubud renowned for its artists and dancers alike. <br /><br />\\n<br /><br /> \n<strong>Meeting/pick-up point:</strong> Pick-up for hotels in Kuta, Legian, Seminyak, Nusadua, Tanjung Benoa, Jimbaran and Sanur. <br /> \n<strong>Pick-up time:</strong> Between 8am and 8.30am. <br />\n<strong>Drop-off location:</strong> The same as the hotel pick-ups. <br />\n<strong>Drop-off time: </strong> Between 4pm and 4.30pm.<br />\n<strong>Languages:</strong> English and other languages on request. <br />\\n",
+                "longitude": null,
+                "latitude": null,
+                "address": null,
+                "amount": 51.7,
+                "resource": "http://media.activitiesbank.com/11767/ENG/L/11767_2.jpg",
+                "segment": "Families,Full day,Tours & Activities,Seniors,Youth,Couples",
+                "count": "379",
+                "user_id": 1,
+                "distance": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "code": "E-ID1-ID-BASIGHT",
+                "name": "Bali Sightseeing - Full Day Tour",
+                "destination": "Bali - Indonesia",
+                "city": null,
+                "country": "Indonesia",
+                "country_code": "ID",
+                "description": "There are many ways to explore the amazing island of Bali, but one of the most comfortable and interesting is surely on tour with a private car charter. On this full day excursion the experienced guide will show you the culture, beauty and traditions of this wonderful tropical island. <br /> <br /> Discover old jungle trials, sacred temples, rice fields, rain forest beautiful lakes and of course volcanoes. Furthermore you can discuss with the guide which itinerary you would like to have. There is no better way to travel.\\n<br /><br />\n<strong>Meeting/pick-up point:</strong> Hotel Lobby in Kuta, Legian, Seminyak, Nusadua, Tanjung Benoa, Jimbaran, Sanur. <br />\n<strong>Duration:</strong> 10 hours. <br />\n<strong>Start/opening time:</strong> Depending on the customer's choice. <br />\n<strong>Languages:</strong> English. <br />\n<strong>Others:</strong>  Not included: beverage during lunch.\\n",
+                "longitude": null,
+                "latitude": null,
+                "address": null,
+                "amount": 70.94,
+                "resource": "http://media.activitiesbank.com/42966/ENG/L/42966_1.jpg",
+                "segment": "Families,Tours & Activities,Full day,Youth,Couples,Seniors",
+                "count": "371",
+                "user_id": 1,
+                "distance": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "code": "E-ID1-ID-BAFDDAY",
+                "name": "A full day to spend as you like - Only Transport",
+                "destination": "Bali - Indonesia",
+                "city": null,
+                "country": "Indonesia",
+                "country_code": "ID",
+                "description": "Your tour begins when you are picked up from your accommodation in the morning. Your driver will discuss your itinerary with you to see if you wish to make any changes before you set off for the day. <br /><br />\nThis tour will show you the impressive differences in nature all on this beautiful island, Bali. From the low land and relatively flat rice fields of Tabanan to the mountain region in Bedugul. A visit to the Bali butterfly Park is an opportunity to encounter rare and endemic species of butterflies. The Bali butterfly park in Tabanan is the island’s sole butterfly enclosure. Acres of charming grounds and intricately landscaped gardens make for a lovely home to these beautiful creatures. The vegetation changes as you continue to the alpine countryside. <br /><br />\nYou will make a stop at Pacung, amidst beautiful rice terraces before you visit the colorful local fruit market of Candi Kuning, where you can find a variety of colorful flowers and tropical vegetables. You will see the attractive mountain resort of Bedugul and Lake Beratan where the delightful Ulun Danu Temple is located. The temple is set on a small promontory on the shores of Lake Beratan, home to Danu the Goddess of Water who is believed to control the island's irrigation system. <br /><br />\nYou will continue to drive north along the winding road that will lead you to Gitgit Waterfalls. A short walk through the jungle reveals these beautiful falls. The return journey will take you through the Jatiluwih rice terraces which are on the world heritage list before heading back to your accommodation.\n\\n<br /><br />\n<strong>Meeting/pick-up point:</strong> Hotel Lobby in Kuta, Legian, Seminyak, Nusadua, Tanjung Benoa, Jimbaran and Sanur.<br />\n<strong>Duration:</strong> 10 hours.<br />\n<strong>Pick-up time:</strong> At 8:30am.<br />\n<strong>Drop-off time:</strong> At 6:30pm. \n\\n",
+                "longitude": null,
+                "latitude": null,
+                "address": null,
+                "amount": 25.51,
+                "resource": "http://media.activitiesbank.com/42908/ENG/L/42908_1.jpg",
+                "segment": "Families,Full day,Tours & Activities,Couples,Youth,Seniors",
+                "count": "364",
+                "user_id": 1,
+                "distance": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "code": "E-ID1-ID-BABIPKG",
+                "name": "Bali Bird Park Package",
+                "destination": "Bali - Indonesia",
+                "city": null,
+                "country": "Indonesia",
+                "country_code": "ID",
+                "description": "The park is divided into seven regions that recreate the natural habitats of birds, complete with indigenous plant life. Travel from the deep misty jungle of Sumatra to Far East Indonesia and Papua to discover the native birds from these remote regions. Venture to other tropical continents too including South America, the African Savannah and Australia. And walk side-by side with cassowaries, crested-cranes, storks and pelicans and many more birds as they wander freely through the park.\\n<br /><br />\n<strong>Meeting/pick-up point:</strong> Hotel Lobby in Kuta, Seminyak, Kerobokan, Sanur, Jimbaran, Nusa Dua, Tanjung Benoa.<br />\n<strong>Duration:</strong> 6 hours.<br />\n<strong>Pick-up time:</strong> At 9am.<br />\n<strong>End/closing time:</strong> At 3pm. \n\\n",
+                "longitude": null,
+                "latitude": null,
+                "address": null,
+                "amount": 67.45,
+                "resource": "http://media.activitiesbank.com/42338/ENG/L/42338_1.jpg",
+                "segment": "Half-day morning,Tours & Activities,Seniors,Youth,Couples,Families",
+                "count": "357",
+                "user_id": 1,
+                "distance": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "code": "E-ID1-ID-BAINTRO",
+                "name": "Full Day Intro To Balinese Cuisine",
+                "destination": "Bali - Indonesia",
+                "city": null,
+                "country": "Indonesia",
+                "country_code": "ID",
+                "description": "In the morning, meet with our reps and then transfer to Guliang Kawan Village located in the central of Bali. Prior, stop at a traditional local market where you will purchase the ingredients of today class such as spices, vegetables etc. Next, enjoy a Cooking Class which offers a fascinating introduction to the exotic ingredients and unique culture of Balinese food. Gain a valuable insight into the techniques of preparation and cooking which is used on a daily basis in homes all over the island. <br /><br /> After your lunch which is served on a hut facing to the rice field, you might join in a rural activity that allows you to experience how the farmers work in the rice fields. You will learn how to plant, transplants or harvest rice (depending on season) and in the same time you will have the opportunity to learn more about Subak, the Balinese traditional irrigation system that is an UNESCO recognized method of sustainable farming. Transfer back to your hotel.\\n<br /><br />\n<strong>Meeting/pick-up point:</strong> Hotel Lobby in Kuta, Legian, Seminyak, Nusadua, Tanjung Benoa, Jimbaran, Sanur. <br />\n<strong>Start/opening time:</strong> 8:30am. <br />\n<strong>End/closing time:</strong> 4:30pm.  <br />\n<strong>Languages:</strong> English. <br />\n<strong>Not included:</strong>  Personal expenses, tipping, beverage during the lunch. \n\\n",
+                "longitude": null,
+                "latitude": null,
+                "address": null,
+                "amount": 106.14,
+                "resource": "http://media.activitiesbank.com/42922/ENG/L/42922_1.jpg",
+                "segment": "Tours & Activities,Adult only,Full day",
+                "count": "355",
+                "user_id": 1,
+                "distance": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "code": "E-ID1-ID-BAHSIGH",
+                "name": "Bali Sightseeing - Half Day Tour",
+                "destination": "Bali - Indonesia",
+                "city": null,
+                "country": "Indonesia",
+                "country_code": "ID",
+                "description": "Enjoy your own created tour by visiting the interesting places in Bali in your limited time. The Half Day charters are the best alternative with more privacy for you to explore and experience the nice tourist destination in the Paradise Island and lead by our knowledgeable guide.\\n<br /><br />\n<strong>Meeting/pick-up point:</strong> Hotel Lobby in Kuta, Legian, Seminyak, Nusadua, Tanjung Benoa, Jimbaran, Sanur. <br />\n<strong>Duration:</strong> 6 hours. <br />\n<strong>Start/opening time:</strong> Depending on the customer’s choice. <br />\n<strong>Languages:</strong> English. <br />\n<strong>Others:</strong>  Not included: beverage during lunch.\\n",
+                "longitude": null,
+                "latitude": null,
+                "address": null,
+                "amount": 40.79,
+                "resource": "http://media.activitiesbank.com/42968/ENG/L/42968_1.jpg",
+                "segment": "Couples,Tours & Activities,Flexible,Seniors,Families,Youth",
+                "count": "352",
+                "user_id": 1,
+                "distance": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "code": "E-ID1-ID-BAARLUX",
+                "name": "Full Day Aristocat The Luxury Sailing Catamaran",
+                "destination": "Bali - Indonesia",
+                "city": null,
+                "country": "Indonesia",
+                "country_code": "ID",
+                "description": "Sail away from Bali to Nusa Lembongan Island aboard Aristocat – Bali Hai Cruises’ luxury Sailing Catamaran. Enjoy a day trip in the pristine Lembongan bay at Bali Hai Cruises private Beach Club, where you can relax on golden sand, lie back in the shade of tranquil gardens or cool off in a lagoon pool.  <br /> <br /> After boarding, you will have a morning breakfast served on the boat with tea, coffee and pastries. Then, the Aristocat will depart from Benoa Harbour, trolling fishing on the way across to Lembongan Island. Next, Aristocat will arrive at Lembongan Bay, guest transfer to the Beach Club, all activities commence: Semi-Submersible Coral Viewer, Village Tours, Snorkeling Tours, Volleyball Court, Banana Boat Rides, Swimming and Snorkeling between flags. <br /> <br /> Then, we will have a BBQ lunch. And in the afternoon: Treasure hunt for children, tug of war on the beach. After this journey, when you hear the kul kul (traditional bell) please check you have all personal belongings and prepare for the return to “Aristocat” from the beach. Afternoon tea and coffee on board before depart.\\n<br /><br />\n<strong>Meeting/pick-up point:</strong> Hotel Lobby in Kuta, Seminyak, Kerobokan, Sanur, Jimbaran, Nusa Dua and Tanjung Benoa. <br />\n<strong>Duration:</strong> 9 hours. <br />\n<strong>Pick-up time:</strong> 8:15am. <br />\n<strong>Drop-off location:</strong>  Hotel Lobby in Kuta, Seminyak, Kerobokan, Sanur, Jimbaran, Nusa Dua, and Tanjung Benoa. <br />\n<strong>Drop-off time:</strong> At 6pm. <br />\n<strong>Dress code:</strong> Sport shoes, comfortable clothes, hat or cap. <br />\n<strong>Others:</strong> Not included - Personal expenses and tipping.\\n",
+                "longitude": null,
+                "latitude": null,
+                "address": null,
+                "amount": 104.22,
+                "resource": "http://media.activitiesbank.com/42519/ENG/L/42519_4.jpg",
+                "segment": "Couples,Tours & Activities,Full day,Youth,Families,Seniors",
+                "count": "352",
+                "user_id": 1,
+                "distance": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "code": "E-ID1-ID-BAQUAD",
+                "name": "Full Day Excursion by Quad",
+                "destination": "Bali - Indonesia",
+                "city": null,
+                "country": "Indonesia",
+                "country_code": "ID",
+                "description": "Visit a part of Bali where you still can find old traditions alive. You will drive yourself with a specially designed off road 4-wheel motorcycle that copes with all kinds of terrain through an authentic part of Bali, passing rice fields, crossing jungle and driving through some Balinese kampongs (villages). <br /><br /> Tours start from Payangan area, which is a rural area in the central part of Bali. The ATV 4 wheelers are user friendly and easy to handle. The tours combine a great experience of driving your own off road vehicle (or enjoying the ride as a co-pilot) with the opportunity to learn about the way the local people live. <br /><br /> You will follow our experienced guides by driving between beautiful rice fields, pass the rainforest and drive up the mountain. It does not matter if you have ever driven a quad bike before furthermore no driving license is needed.\\n<br /><br />\n<strong>Meeting/pick-up point:</strong> Hotel Lobby in Kuta, Seminyak, Kerobokan, Sanur, Jimbaran, Nusa Dua, Tanjung Benoa. <br />\n<strong>Duration:</strong> 7 hours. <br />\n<strong>Pick-up time:</strong> At 9-9:30am. <br />\n<strong>Drop-off time:</strong> At 4-4:30pm. <br />\n<strong> Languages: </strong> English. <br />\n<strong>Others:</strong> We recommend to wear comfortable clothes. <br /> Personal expenses and tipping not included.\\n",
+                "longitude": null,
+                "latitude": null,
+                "address": null,
+                "amount": 96.16,
+                "resource": "http://media.activitiesbank.com/40620/ENG/L/40620_1.jpg",
+                "segment": "Tours & Activities,Full day,Adult only",
+                "count": "350",
+                "user_id": 1,
+                "distance": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "code": "E-ID1-ID-BALAROL",
+                "name": "Full Day Land Rover Luxury Adventure",
+                "destination": "Bali - Indonesia",
+                "city": null,
+                "country": "Indonesia",
+                "country_code": "ID",
+                "description": "Travel by legendary Land Rover, on tiny country roads and tracks, through terraced rice fields and untouched rainforest to the real heart of Bali. Visit a traditional farmhouse where the picnic basket will be open while you discover the fragrant spices in a tropical garden. Explore an ancient quarry where stones still cut by ancestral methods to build the temples and shrines of the island. <br /><br />Admire a hot mineral spring where Balinese have bathed for centuries. Relax in a bamboo restaurant build by local crafts-men surrounded by the rainforest with its magic sounds. Enjoy the Balinese lunch prepared with ingredients from the island, some straight out of the rainforest and accompanied by red or white wine. Taste the Bali Mountain Coffee, the Cognac though, remains French.\\n<br /><br />\n<strong>Meeting/pick-up point:</strong> Hotel Lobby in Kuta, Seminyak, Kerobokan, Sanur, Jimbaran, Nusa Dua, Tanjung Benoa.<br />\n<strong>Duration:</strong> 8 hours.<br />\n<strong>Pick-up time:</strong> Between 8am and 8:45am. <br />\n<strong>Drop-off location:</strong> Between 4pm and 4:45pm. <br />\n<strong>Languages:</strong> English.<br />\n<strong>Others:</strong>  We recommend sport shoes, comfortable clothes, Hat or cap.\n\\n",
+                "longitude": null,
+                "latitude": null,
+                "address": null,
+                "amount": 95.91,
+                "resource": "http://media.activitiesbank.com/42354/ENG/L/42354_1.jpg",
+                "segment": "Full day,Seniors,Tours & Activities,Couples,Youth",
+                "count": "349",
+                "user_id": 1,
+                "distance": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "code": "E-ID1-ID-BAMOUNT",
+                "name": "Full Day Mount Batur Sunrise",
+                "destination": "Bali - Indonesia",
+                "city": null,
+                "country": "Indonesia",
+                "country_code": "ID",
+                "description": "For this early morning trek, depart very early before dawn breaks and follow the straightforward path to the center of the crater. On the crest, enjoy the awesome view of the sun rising from behind the mighty Mount Agung. Meanwhile, sample the unique breakfast of hard - boiled eggs and hot tea or coffee, cooked to perfection in the natural heat steaming from the belly of the volcano. After taking in the beauty of the summit, head down to the hot spring of Toya Bungkah village where your American breakfast will be served. Enjoy and relax by the pool of the natural hot spring with the view of the beautiful surroundings before returning to the hotel. <br /><br />\\n<br /><br />\n<strong>Meeting/pick-up point:</strong> Hotel Lobby in Kuta, Legian, Seminyak, Nusadua, Tanjung Benoa, Jimbaran, Sanur. <br />\n<strong>Duration:</strong> 8 hours. <br />\n<strong>Start/opening time:</strong> 1:30am.<br />\n<strong>End/closing time:</strong> 9:30am. <br />\n<strong>Languages:</strong> English. <br />\n<strong>No included:</strong> Personal expenses, tipping and beverage during the lunch.\n\\n",
+                "longitude": null,
+                "latitude": null,
+                "address": null,
+                "amount": 113.32,
+                "resource": "http://media.activitiesbank.com/42926/ENG/L/42926_1.jpg",
+                "segment": "Adult only,Full day,Tours & Activities",
+                "count": "349",
+                "user_id": 1,
+                "distance": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ],
+        "favorite_destinations": [
+            {
+                "destination_code": "BAI",
+                "countryCode": "ID",
+                "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+                "destination": "Bali - INDONESIA  ",
+                "count": 200
+            },
+            {
+                "destination_code": "JAV",
+                "countryCode": "ID",
+                "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+                "destination": "Jakarta - INDONESIA  ",
+                "count": 199
+            },
+            {
+                "destination_code": "BKK",
+                "countryCode": "TH",
+                "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+                "destination": "Bangkok - THAILAND  ",
+                "count": 198
+            },
+            {
+                "destination_code": "HKT",
+                "countryCode": "TH",
+                "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+                "destination": "Phuket - THAILAND  ",
+                "count": 197
+            },
+            {
+                "destination_code": "SIN",
+                "countryCode": "SG",
+                "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+                "destination": "Singapore - SINGAPORE  ",
+                "count": 196
+            },
+            {
+                "destination_code": "KUL",
+                "countryCode": "MY",
+                "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+                "destination": "Kuala Lumpur - MALAYSIA  ",
+                "count": 195
+            },
+            {
+                "destination_code": "LGK",
+                "countryCode": "MY",
+                "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+                "destination": "Kedah / Langkawi - MALAYSIA  ",
+                "count": 194
+            },
+            {
+                "destination_code": "HKG",
+                "countryCode": "HK",
+                "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+                "destination": "Hong Kong - HONG KONG",
+                "count": 193
+            },
+            {
+                "destination_code": "YQY",
+                "countryCode": "CA",
+                "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+                "destination": "Sydney - CANADA  ",
+                "count": 192
+            },
+            {
+                "destination_code": "AKL",
+                "countryCode": "NZ",
+                "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+                "destination": "Auckland - NEW ZEALAND  ",
+                "count": 191
+            },
+            {
+                "destination_code": "OOL",
+                "countryCode": "AU",
+                "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+                "destination": "Gold Coast - QLD - AUSTRALIA  ",
+                "count": 190
+            },
+            {
+                "destination_code": "CN1",
+                "countryCode": "CN",
+                "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+                "destination": "Guangzhou - CHINA  ",
+                "count": 189
+            },
+            {
+                "destination_code": "PVG",
+                "countryCode": "CN",
+                "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+                "destination": "Shanghai - CHINA  ",
+                "count": 188
+            },
+            {
+                "destination_code": "ICN",
+                "countryCode": "KR",
+                "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+                "destination": "Seoul - SOUTH KOREA",
+                "count": 187
+            },
+            {
+                "destination_code": "NRT",
+                "countryCode": "JP",
+                "image": "http://media.activitiesbank.com/42338/ENG/B/42338_1.jpg",
+                "destination": "Tokyo - JAPAN  ",
+                "count": 186
+            }
+        ],
+        "last_search": [
+            {
+                "code": "E-MY1-MY-KLCRAB",
+                "name": "Full Day Crab Island Fishing Village",
+                "destination": "Kuala Lumpur - Malaysia",
+                "city": null,
+                "country": "Malaysia",
+                "country_code": "MY",
+                "description": "Depart Kuala Lumpur for an hour drive to Port Klang, before taking a 30-minute ferry ride to Crab Island (Pulau Ketam). The mangrove swamps of nearby island  and “floating houses'' come to view as the ferry approaches the island. The island is the best opportunity to see the rustic lifestyle of fishermen where even the roads are built on stilts.  Crab Island, as the name suggest, is renowned for fresh crabs and other seafood. Afternoon is free and easy time for you to explore the small village, you may also rent a bicycle to get around (rental not included). <br />    On the way back to the city, photo stop at the below places: <br />\n• Sultan Salahuddin Abdul Aziz Mosque - it is Selangor's State Mosque. Commonly referred to as the 'Blue Mosque', it is said to have the world’s tallest minarets.  <br />\n• Thean Hou Temple -  set on a hill with commanding views over Kuala Lumpur, this is a landmark six-tiered Chinese temple with elaborate architecture that mix modern techniques with traditional styles. It is amongst the largest Chinese temples in South East Asia.\\n<br /><br />\n<strong>Meeting/pick-up point:</strong> Hotels inside City: Pick-up is included from hotels in Bukit Bintang and Golden Triangle areas only. <br />\nIf you want to be picked-up from hotels outside the Bukit Bintang or Golden Triangle area, you need to select the outside KL City only option. <br />\nPick-up from Cheras, Seri Kembangan, Bangi, Putrajaya, Sepang, KLIA areas are not included. <br />\nPlease select the correct modality according to the location of your hotel, otherwise additional fees may apply.<br />\n<strong>Duration:</strong> 8 hours.<br />\n<strong>Start/opening time:</strong> At 9am.<br />\n<strong>End/closing time:</strong> Drop off at 5.30pm.<br />\n<strong>Languages:</strong> English speaking driver guide. <br />\n<strong>Others:</strong> Ferry ticket and seafood lunch included. <br /> Note: As this is a walking tour, wear comfortable shoes.\n\\n",
+                "longitude": null,
+                "latitude": null,
+                "address": null,
+                "amount": 93.04,
+                "resource": "http://media.activitiesbank.com/37043/ENG/L/37043_2.jpg",
+                "segment": "Seniors,Full day,Cruises and water sports,Couples,Families,Youth",
+                "search_at": "2018-03-21 07:10:58",
+                "id": 1398,
+                "user_id": 1,
+                "distance": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "code": "E-MY1-MY-KLFIRE",
+                "name": "Enchanting fireflies trail around Kuala Selangor",
+                "destination": "Kuala Lumpur - Malaysia",
+                "city": null,
+                "country": "Malaysia",
+                "country_code": "MY",
+                "description": "Amongst the hustle and bustle of Kuala Lumpur it is easy to forget that Malaysia is home to some of the most beautiful scenery and diverse wildlife on the planet. Discover this other side to the country on this trip to Kuala Selangor, a small village well known for the biodiversity of its mangrove forest. Take a walk around the jungle trails and catch sight of silver leaf monkeys, mudskippers and much more. Dine in a local restaurant by the river front before boating upstream to watch the breathtaking spectacle of thousands of fireflies sparkling in the thick mangrove along both sides of the river banks. <br /><br />  \nExplore kilometers of unspoiled jungle, teeming with wildlife and come face to face with some of Malaysia’s most famous animal inhabitants. Your expert local guide will take you through the jungle trail in search of the silver leaf monkeys who patrol the tree tops, herons and egrets in the sky and lakes and the lizards, crabs and mudskippers that move through the mangrove. <br /><br />  \nIt is not just the wildlife that attracts visitors to Kuala Selangor. Held in high importance by centuries of rulers, it has been the scene of many battles and the remnants of “Fort Altingsburg”, built to defend the town from sea bound invaders provide a fascinating insight into past colonial conflicts. Further stops the British-built lighthouse and the royal mausoleum are not to be missed. <br /><br />  \nAfter a day of jungle exploring, relax with a delicious dinner in a top local restaurant on the river front before boating upstream for a truly unforgettable experience to witness Kuala Selangor´s famous fireflies illuminating the dusk sky. <br /><br />  \n\\n<br /><br />\n <strong>Meeting point:</strong> Hotels inside City: Pick-up is included from hotels in Bukit Bintang and Golden Triangle areas only. <br /> If you want to be picked-up from hotels outside the Bukit Bintang or Golden Triangle area, you need to select the outside KL City only option. <br /> Pick-up from Cheras, Seri Kembangan, Bangi, Putrajaya, Sepang, KLIA areas are not included. <br /> Please select the correct modality according to the location of your hotel, otherwise additional fees may apply. <br /> \n<strong>Duration:</strong> Approximately 7 hours. <br />\n<strong>Pick-up time:</strong> Shared tour - between 3:15pm and 3:30pm. <br /> Private tour: at 3:30pm. <br />\n<strong>Start/opening time:</strong> Shared tour and Private tour: at 3:30pm. <br />\n<strong>Drop-off time:</strong> Shared tour and Private tour: approximately at 10:30pm.<br />\n<strong>Languages:</strong> English. <br />\n<strong>Voucher validity:</strong> Same day.\\n",
+                "longitude": null,
+                "latitude": null,
+                "address": null,
+                "amount": 101.29,
+                "resource": "http://media.activitiesbank.com/11525/ENG/L/11525_1.jpg",
+                "segment": "Couples,Tours & Activities,Youth,Families,Seniors",
+                "search_at": "2018-03-21 07:10:58",
+                "id": 2052,
+                "user_id": 1,
+                "distance": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "code": "E-MY1-MY-KLICITY",
+                "name": "Evening I-City Tour - Private",
+                "destination": "Kuala Lumpur - Malaysia",
+                "city": null,
+                "country": "Malaysia",
+                "country_code": "MY",
+                "description": "Leisure Park @ I-City is an all-season family destination where fun and laughter prevail side-by-side light learning experience. On the way, pass by the Blue Mosque - The Sultan Salahuddin Abdul Aziz Shah Mosque is Selangor’s State Mosque. Commonly referred to as the 'Blue Mosque', it is said to have the world’s tallest minarets. <br />\nVisit the City of Digital Lights - As night falls, i-City’s mesmerising nightscape with over 1 million LED lights will lit the sky daily in a thematic manner. The place comes alive with an amazing forest of man-made maple and pine trees brightly illuminated with seasonal LED lightscape themes.  <br />\n\nYou may also take the opportunity to explore other attractions at i-City (entrance fee not included):  <br />\n• SnoWalk - A below 5 degrees Celcius Artic environment with ice sculptures and rides. Here you will find igloos, ice houses, slides, a mini-bobsled run, snowmen, ice penguins, a bar made of ice (no beverage served), various ice sculptures and plenty more LED lights. <br />\n• Fun World (for family-oriented activities and games) with various Malaysia’s firsts such as the Trick Art Museum - 2D &3D painting by creating illusion on camera lens, the Red Carpet - an All-star wax Museum, and Space Mission @ I-city for a futuristic space adventure experience. \n\\n<br /><br />\n<strong>Meeting/pick-up point:</strong> Hotels inside City: Pick-up is included from hotels in Bukit Bintang and Golden Triangle areas only. <br />\nIf you want to be picked-up from hotels outside the Bukit Bintang or Golden Triangle area, you need to select the outside KL City only option. <br />\nPick-up from Cheras, Seri Kembangan, Bangi, Putrajaya, Sepang, KLIA areas are not included. <br />\nPlease select the correct modality according to the location of your hotel, otherwise additional fees may apply.<br />\n<strong>Duration:</strong> Approx. 5 hours.<br />\n<strong>Pick-up time:</strong> 6pm.<br />\n<strong>Drop-off time:</strong> Approx. 10.30pm.<br />\n<strong>Languages:</strong> English speaking driver guide.<br />\n<strong>Others:</strong>  Inclusion: entrance to City of Digital Lights. Exclusions: Items of a personal nature, Tips or gratuities for drivers or guide, entrance fee to other Theme Park/attractions. <br />\nExtra/ Supplements: <br />\nLocker rental is available at a charge of MYR5 + MYR5 refundable deposit (Guests to pay locally). <br />  \nDress-code: Light and comfortable clothing is recommended. <br />\nExtra comments: Entrance to attractions: CHILD denotes age from above 90cm in height and below 12 years old (Proof of age required). Should the child is above 90cm in height, charges shall apply according to the Adult ticket price of each designate attractions.\\n",
+                "longitude": null,
+                "latitude": null,
+                "address": null,
+                "amount": 71.06,
+                "resource": "http://media.activitiesbank.com/37046/ENG/L/37046_1.jpg",
+                "segment": "Families,Theme and water parks,Seniors,Youth,Couples",
+                "search_at": "2018-03-21 07:10:58",
+                "id": 2053,
+                "user_id": 1,
+                "distance": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "code": "E-MY1-MY-KLGAR",
+                "name": "Garden city of Kuala Lumpur",
+                "destination": "Kuala Lumpur - Malaysia",
+                "city": null,
+                "country": "Malaysia",
+                "country_code": "MY",
+                "description": "Explore Malaysia´s vibrant and historic capital on this leisurely introduction to Kuala Lumpur. Take in the key sights from the historic Independence Square to the opulent National Mosque, KL Bird Park to the imposing Petronas Towers and many more along the way. Your driver and local expert will ensure that you maximize your time and get the most out of Kuala Lumpur on this comprehensive city tour. <br /><br />\nTake a step back in time with a stop at the city’s Old Railway Station before heading to Malaysia’s majestic National Mosque. Complete with beautiful gardens and holding a capacity of 15,000, it is a stunning spectacle and well worth a photo stop. Head to the Selangor club and contrast the mock Tudor façade with the Moorish architecture at the Sultan Abdul Samad building. <br /><br />\nLet your spirits soar at KL Bird Park, the world’s largest free-flight walk-in aviary. Sprawling over 20 acres, the Bird Park has been intricately designed to resemble their natural habitat and is home to more than 3,000 birds from 200 different species. Proceed to the National Monument to pay homage to the fallen heroes of Malaysia’s past. A sculpture of huge cultural significance, it honours those who struggled to protect the country’s freedom in World War II and the following turbulent years. <br /><br />\nConclude the tour at the world-famous Petronas Twin Towers. For six years after its construction this mega-structure held the record for the world’s tallest building and is a must see for any visitor to Kuala Lumpur. Dominating the skyline of the business district, it is a symbol of Malaysia’s rapid economic growth and a perfect photo opportunity. <br /><br />\n\n\\n<br /><br /> <strong>Meeting/ pick-up point:</strong> Hotels inside City: Pick-up is included from hotels in Bukit Bintang and Golden Triangle areas only. <br /> If you want to be picked-up from hotels outside the Bukit Bintang or Golden Triangle area, you need to select the outside KL City only option. <br /> Pick-up from Cheras, Seri Kembangan, Bangi, Putrajaya, Sepang, Klia areas are not included. <br /> Please select the correct modality according to the location of your hotel, otherwise additional fees may apply. <br />  \n<strong>Duration:</strong>  Approx. 4 hours.<br /> \n<strong>Pick-up time:</strong> Morning tour: 9am. Afternoon tour: 2pm-2:15pm.<br />\n <strong>Start/opening time:</strong> Morning tour: 9am. Afternoon tour: 2pm. <br />  \n<strong>Drop-off time:</strong> Morning tour: approx. 1pm. Afternoon tour: approx. 6pm.\n<strong>Languages:</strong>English. <br />  \n<strong>Not included:</strong> Petronas Twin Towers Skybridge.<br />\n<strong>Others:</strong>  Dress standards are conservative throughout Asia, especially outside major cities. To respect this and for your own comfort, we strongly recommend modest clothing. This means clothing that covers your shoulders and knees. Loose, lightweight, long clothing is both respectful and cool in the predominantly hot Asian climate.\n\\n",
+                "longitude": null,
+                "latitude": null,
+                "address": null,
+                "amount": 55.97,
+                "resource": "http://media.activitiesbank.com/28230/ENG/L/28230_1.jpg",
+                "segment": "Youth,Tours & Activities,Half-day morning,Families,Seniors,Couples,Half-day afternoon",
+                "search_at": "2018-03-21 07:10:58",
+                "id": 2054,
+                "user_id": 1,
+                "distance": null,
+                "start_time": null,
+                "end_time": null
+            },
+            {
+                "code": "E-MY1-MY-KLGEN",
+                "name": "Genting Highlands Trip",
+                "destination": "Kuala Lumpur - Malaysia",
+                "city": null,
+                "country": "Malaysia",
+                "country_code": "MY",
+                "description": "<strong>Lose yourself to this magical world, the perfect way to escape your everyday life and have a load of fun! Discover the depths of the famously loved Genting Highlands.</strong><br /><br /><strong>Highlights</strong><br />- Malaysia’s biggest theme park and longest gondola lift <br />- The ultimate gaming experience at the Genting Casino <br />- Attractions, rides and games for all <br /><br />Welcome to a world of fun, located at 6,000 feet above sea level amidst a beautiful 100 million year old rainforest and only an hour’s drive away from Kuala Lumpur, it’s a great place to escape the bustle of the modern life, break the routine and to release your inner child.<br />\n<br />\nThere is literally everything and anything you could dream of to have a good time! There is no such thing as boredom here. With three amusement parks, one outside, one inside and one waterpark – be prepared for all around adrenaline buzzes. For the adventurous, you’ll find the opportunity to abseil and indoor rock climb, dare you test your ability? Practice your aim with a bit of archery or why not try the skydiving wind tunnel.<br />\n<br />\nFor the more traditional holiday travelers, this park has facilities to play all your family’s favourite pastimes such as snooker, video arcades and bowling. If that’s not for you, there’s also a great range of shops to browse at your leisure and maybe even to treat yourself!<br />\n<br />\nHave a look round Genting Casino, one of the finest gaming destinations in Asia and spaced out over 200,000 square ft. you’ll be able to get lost amongst the slot machines and tense games of poker.<br />\n<br />\n<strong>Pick-up time</strong><br />\nShared tour – Between 8.45am and 9.30am.<br />\nPrivate tour – at 9amam.<br />\n<br />\n<strong>Start or opening time</strong><br />\nShared tour – At 9.30am.<br />\nPrivate tour – At 9am.<br />\n<br />\n<strong>End or closing time</strong><br />\nShared tour – At approx. 4.45pm.<br />\nPrivate tour – At approx. 5pm.<br />\n<br />\n<strong>Languages</strong><br />\nEnglish<br /><br />\\n<strong>Redeem information</strong><br /><u>Voucher type</u>: Printed<br />Printed Voucher. Print and bring the voucher to enjoy the activity.<br /><br /><strong>Location</strong><br /><u>Starting point:</u> <br />Pick-up is included from hotels in Bukit Bintang and Golden Triangle areas only.</br> If you want to be picked-up from hotels outside the Bukit Bintang or Golden Triangle area, you need to select the outside KL City only option.</br> Pick-up from Cheras, Seri Kembangan, Bangi, Putrajaya, Sepang, KLIA areas are not included.</br> Please ensure you arrive at the meeting point at least 15 minutes prior to the tour start time.</br> Pick up details are provided 24 hours in advance.<br /><br /><u>End point</u>: Same as starting point<br /><br /><strong>Schedule</strong><br /><u>Duration</u>: 8 Hours<br /><br /><strong>Guiding options</strong><br />Guiding type: Guide<br /><br /><strong>Requirements</strong><br />Remember to bring the voucher and valid photo ID with you<br />\\n",
+                "longitude": null,
+                "latitude": null,
+                "address": null,
+                "amount": 50.64,
+                "resource": "http://media.activitiesbank.com/11527/ENG/L/11527_1.jpg",
+                "segment": "Full day,Families,Theme and water parks,Youth",
+                "search_at": "2018-03-21 07:10:58",
+                "id": 2055,
+                "user_id": 1,
+                "distance": null,
+                "start_time": null,
+                "end_time": null
+            }
+        ]
+    }
+}

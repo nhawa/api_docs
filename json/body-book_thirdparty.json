@@ -1,0 +1,43 @@
+{
+  "depart":{
+     "departure": "GMR",
+     "destination": "BD",
+     "departure_date": "2018-04-08 20:00:00",
+     "transporter_no": "11G",
+     "cls": "Ekonomi",
+     "subclass": "C"
+  },
+  "return":{
+     "departure": "BD",
+     "destination": "GMR",
+     "departure_date": "2018-04-08 20:00:00",
+     "transporter_no": "10501",
+     "cls": "Ekonomi",
+     "subclass": "C"
+  },
+   "data_caller": {
+     "title": "Mr.",
+     "name": "Raymond",
+     "phone": "01234567891",
+     "email":"nhawa.c.ec@gmail.com"
+  },
+   "data_passenger": {
+    "adult": [
+       {
+         "name": "Raymond",
+         "id_type": "KTP",
+         "identity": "1234567890"
+       },
+       {
+         "name": "Ichen",
+         "id_type": "KTP",
+         "identity": "1234567891"
+       }
+     ],
+     "infant": [
+       {
+         "name": "Vene"
+       }
+     ]
+  }
+}
